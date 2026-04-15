@@ -71,6 +71,8 @@ tr:hover td{background:#f8f7f4;}
   <div class="filter-row">
     <div class="filter-grp"><span class="filter-lbl">Suche</span><input type="text" id="f-q" placeholder="Empfänger, Art, Ort …"></div>
     <div class="filter-grp"><span class="filter-lbl">Jahr</span><select id="f-year"><option value="">Alle Jahre</option></select></div>
+    <div class="filter-grp"><span class="filter-lbl">Von</span><input type="date" id="f-von" style="height:34px;font-size:13px;padding:0 8px;border-radius:8px;border:0.5px solid #b4b2a9;background:#fff;color:#2C2C2A;"></div>
+    <div class="filter-grp"><span class="filter-lbl">Bis</span><input type="date" id="f-bis" style="height:34px;font-size:13px;padding:0 8px;border-radius:8px;border:0.5px solid #b4b2a9;background:#fff;color:#2C2C2A;"></div>
     <div class="filter-grp"><span class="filter-lbl">Bezirk</span><select id="f-bezirk"><option value="">Alle Bezirke</option></select></div>
     <div class="filter-grp"><span class="filter-lbl">Kategorie</span><select id="f-cat"><option value="">Alle Kategorien</option></select></div>
     <div class="filter-grp"><span class="filter-lbl">Förderungsart</span><select id="f-art"><option value="">Alle Arten</option></select></div>
@@ -208,6 +210,8 @@ async function init(){
 function applyFilters(){
   const q=document.getElementById('f-q').value.trim().toLowerCase();
   const year=document.getElementById('f-year').value;
+  const von=document.getElementById('f-von').value;
+  const bis=document.getElementById('f-bis').value;
   const bezirk=document.getElementById('f-bezirk').value;
   const cat=document.getElementById('f-cat').value;
   const art=document.getElementById('f-art').value;
@@ -218,6 +222,9 @@ function applyFilters(){
   filtered=allData.filter(r=>{
     if(q){const hay=(r.empfänger||'')+(r.art||'')+(r.ort||'');if(!hay.toLowerCase().includes(q)) return false;}
     if(year && getYear(r.auszahlungsdatum)!==year) return false;
+    const datum=r.auszahlungsdatum?r.auszahlungsdatum.slice(0,10):'';
+    if(von && datum < von) return false;
+    if(bis && datum > bis) return false;
     if(bezirk && getBezirk(r.postleitzahl)!==bezirk) return false;
     if(cat && getCat(r.art)!==cat) return false;
     if(art && r.art!==art) return false;
@@ -311,6 +318,8 @@ function sortBy(field){
 function resetFilters(){
   document.getElementById('f-q').value='';
   document.getElementById('f-year').value='';
+  document.getElementById('f-von').value='';
+  document.getElementById('f-bis').value='';
   document.getElementById('f-bezirk').value='';
   document.getElementById('f-cat').value='';
   document.getElementById('f-art').value='';
@@ -325,7 +334,7 @@ function resetFilters(){
 document.getElementById('bPrev').addEventListener('click',()=>{if(curPage>1){curPage--;renderTable();}});
 document.getElementById('bNext').addEventListener('click',()=>{const tp=Math.ceil(filtered.length/PER_PAGE);if(curPage<tp){curPage++;renderTable();}});
 let qt;
-['f-year','f-bezirk','f-cat','f-art','f-typ'].forEach(id=>document.getElementById(id).addEventListener('change',applyFilters));
+['f-year','f-bezirk','f-cat','f-art','f-typ','f-von','f-bis'].forEach(id=>document.getElementById(id).addEventListener('change',applyFilters));
 document.getElementById('f-q').addEventListener('input',()=>{clearTimeout(qt);qt=setTimeout(applyFilters,300);});
 document.getElementById('sl-min').addEventListener('input',function(){document.getElementById('sl-min-val').textContent='€ '+Number(this.value).toLocaleString('de-AT');clearTimeout(qt);qt=setTimeout(applyFilters,300);});
 document.getElementById('sl-max').addEventListener('input',function(){const v=parseInt(this.value);document.getElementById('sl-max-val').textContent=v>=500000?'€ 500.000+':'€ '+Number(v).toLocaleString('de-AT');clearTimeout(qt);qt=setTimeout(applyFilters,300);});
