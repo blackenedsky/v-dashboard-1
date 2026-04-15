@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Förderungen des Landes Vorarlberg</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<style>
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:system-ui,-apple-system,sans-serif;font-size:14px;color:#2C2C2A;background:#f5f4f0;line-height:1.5;}
+.wrap{max-width:1100px;margin:0 auto;padding:1.5rem 1.25rem;}
+.hd{padding:1.25rem 0 1rem;border-bottom:1px solid #d3d1c7;margin-bottom:1.25rem;}
+.hd h1{font-size:20px;font-weight:500;}
+.hd p{font-size:12px;color:#5F5E5A;margin-top:3px;}
+.metrics{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:1.25rem;}
+.metric{background:#fff;border-radius:8px;padding:.875rem 1rem;border:0.5px solid #d3d1c7;}
+.metric .lbl{font-size:11px;color:#5F5E5A;letter-spacing:.03em;text-transform:uppercase;margin-bottom:5px;}
+.metric .val{font-size:20px;font-weight:500;}
+.metric .sub{font-size:11px;color:#888780;margin-top:3px;}
+.filters{background:#fff;border:0.5px solid #d3d1c7;border-radius:12px;padding:1rem;margin-bottom:1.25rem;}
+.filter-row{display:flex;flex-wrap:wrap;gap:10px;align-items:flex-end;}
+.filter-grp{display:flex;flex-direction:column;gap:4px;}
+.filter-lbl{font-size:11px;color:#5F5E5A;letter-spacing:.03em;text-transform:uppercase;}
+select,input[type=text]{height:34px;font-size:13px;padding:0 10px;border-radius:8px;border:0.5px solid #b4b2a9;background:#fff;color:#2C2C2A;}
+input[type=text]{min-width:160px;}
+.slider-grp{display:flex;flex-direction:column;gap:4px;min-width:200px;}
+.slider-row{display:flex;align-items:center;gap:8px;}
+.slider-row input[type=range]{flex:1;height:4px;accent-color:#378ADD;}
+.slider-val{font-size:12px;color:#2C2C2A;min-width:70px;text-align:right;}
+.charts{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin-bottom:1.25rem;}
+.cc{background:#fff;border:0.5px solid #d3d1c7;border-radius:12px;padding:1rem;}
+.cc h3{font-size:11px;font-weight:500;color:#5F5E5A;letter-spacing:.04em;text-transform:uppercase;margin-bottom:.75rem;}
+.legend{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:.75rem;}
+.legend-item{display:flex;align-items:center;gap:5px;font-size:11px;color:#5F5E5A;}
+.legend-dot{width:10px;height:10px;border-radius:2px;flex-shrink:0;}
+.tw{background:#fff;border:0.5px solid #d3d1c7;border-radius:12px;overflow:hidden;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+th{padding:9px 12px;text-align:left;font-weight:500;font-size:11px;letter-spacing:.04em;text-transform:uppercase;color:#5F5E5A;border-bottom:0.5px solid #d3d1c7;background:#f1efe8;}
+td{padding:8px 12px;border-bottom:0.5px solid #e8e7e2;color:#2C2C2A;vertical-align:middle;}
+tr:last-child td{border-bottom:none;}
+tr:hover td{background:#f8f7f4;}
+.amt{font-variant-numeric:tabular-nums;text-align:right;font-weight:500;}
+.badge{display:inline-block;padding:2px 8px;border-radius:4px;font-size:11px;white-space:nowrap;}
+.pg{display:flex;align-items:center;gap:8px;padding:.75rem 1rem;font-size:12px;color:#5F5E5A;border-top:0.5px solid #d3d1c7;}
+.pg button{height:28px;padding:0 14px;font-size:12px;border-radius:8px;border:0.5px solid #b4b2a9;background:#fff;cursor:pointer;}
+.pg button:hover{background:#f1efe8;}
+.pg button:disabled{opacity:.4;cursor:default;}
+.pg .inf{flex:1;}
+.loading{text-align:center;padding:2rem;color:#5F5E5A;font-size:13px;}
+.note{font-size:11px;color:#888780;margin-top:4px;}
+@media(max-width:640px){.charts{grid-template-columns:1fr;}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<div class="hd">
+  <h1>Förderungen des Landes Vorarlberg</h1>
+  <p id="upd">Daten: transparenz.vorarlberg.at · wird geladen …</p>
+</div>
+
+<div class="metrics">
+  <div class="metric"><div class="lbl">Einträge gesamt</div><div class="val" id="m-tot">–</div></div>
+  <div class="metric"><div class="lbl">Summe (Ansicht)</div><div class="val" id="m-sum">–</div><div class="sub" id="m-sub">alle Filter</div></div>
+  <div class="metric"><div class="lbl">Durchschnitt</div><div class="val" id="m-avg">–</div></div>
+  <div class="metric"><div class="lbl">Neueste Auszahlung</div><div class="val" id="m-lat" style="font-size:16px;">–</div></div>
+</div>
+
+<div class="filters">
+  <div class="filter-row">
+    <div class="filter-grp"><span class="filter-lbl">Jahr</span><select id="f-year"><option value="">Alle Jahre</option></select></div>
+    <div class="filter-grp"><span class="filter-lbl">PLZ / Bezirk</span><select id="f-plz"><option value="">Alle Bezirke</option></select></div>
+    <div class="filter-grp"><span class="filter-lbl">Empfängertyp</span><select id="f-typ"><option value="">Alle Typen</option><option value="gemeinde">Gemeinde</option><option value="verein">Verein</option><option value="gmbh">GmbH / AG</option><option value="privat">Privatperson</option></select></div>
+    <div class="filter-grp"><span class="filter-lbl">Kategorie</span><select id="f-cat"><option value="">Alle Kategorien</option></select></div>
+    <div class="filter-grp"><span class="filter-lbl">Förderungsart</span><select id="f-art"><option value="">Alle Arten</option></select></div>
+    <div class="filter-grp"><span class="filter-lbl">Suche</span><input type="text" id="f-q" placeholder="Empfänger …"></div>
+    <div class="filter-grp"><span class="filter-lbl">Sortierung</span>
+      <select id="f-sort">
+        <option value="auszahlungsdatum|desc">Datum ↓</option>
+        <option value="auszahlungsdatum|asc">Datum ↑</option>
+        <option value="auszahlungsbetrag|desc">Betrag ↓</option>
+        <option value="auszahlungsbetrag|asc">Betrag ↑</option>
+      </select>
+    </div>
+  </div>
+  <div class="filter-row" style="margin-top:10px;">
+    <div class="slider-grp">
+      <span class="filter-lbl">Mindestbetrag</span>
+      <div class="slider-row">
+        <input type="range" id="sl-min" min="0" max="500000" step="1000" value="0">
+        <span class="slider-val" id="sl-min-val">€ 0</span>
+      </div>
+    </div>
+    <div class="slider-grp">
+      <span class="filter-lbl">Höchstbetrag</span>
+      <div class="slider-row">
+        <input type="range" id="sl-max" min="0" max="500000" step="1000" value="500000">
+        <span class="slider-val" id="sl-max-val">€ 500.000+</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="charts">
+  <div class="cc">
+    <h3>Top 10 Empfänger (aktuelle Seite)</h3>
+    <div style="position:relative;height:270px;"><canvas id="cEmpf" role="img" aria-label="Top 10 Empfänger">Lädt …</canvas></div>
+  </div>
+  <div class="cc">
+    <h3>Verteilung nach Kategorie</h3>
+    <div id="leg-cat" class="legend"></div>
+    <div style="position:relative;height:220px;"><canvas id="cKat" role="img" aria-label="Kategorien">Lädt …</canvas></div>
+  </div>
+</div>
+
+<div class="cc" style="margin-bottom:1.25rem;">
+  <h3>Förderungen nach Jahr <span id="jahr-note" class="note"></span></h3>
+  <div style="position:relative;height:160px;"><canvas id="cJahr" role="img" aria-label="Jahresvergleich">Lädt …</canvas></div>
+</div>
+
+<div class="tw">
+  <div id="tbl-load" class="loading">Daten werden geladen …</div>
+  <table id="tbl" style="display:none;">
+    <thead><tr>
+      <th>Datum</th><th>Empfänger</th><th>Typ</th><th>Kategorie</th><th>Ort</th><th style="text-align:right;">Betrag (€)</th>
+    </tr></thead>
+    <tbody id="tbody"></tbody>
+  </table>
+  <div class="pg" id="pg" style="display:none;">
+    <button id="bPrev">← zurück</button>
+    <span class="inf" id="pInf"></span>
+    <button id="bNext">weiter →</button>
+  </div>
+</div>
+
+</div>
+<script>
+const BASE='https://transparenz.vorarlberg.at/api/data/vtr.view_foerderungen_pers';
+const PROXY=(path)=>'https://vbg-proxy.claudia-gamon.workers.dev/?url='+encodeURIComponent(path);
+const SZ=50;
+let pg=1,totPg=1;
+let cEmpfInst,cKatInst,cJahrInst;
+
+/* ── Bezirke ── */
+const BEZIRKE={
+  'Bregenz':['6900','6901','6902','6911','6912','6914','6920','6921','6922','6923','6924','6926','6932','6933','6934','6941','6942','6943','6951','6952','6960','6961','6971','6972','6973','6974'],
+  'Dornbirn':['6850','6851','6852','6853','6854','6855','6856','6858','6890'],
+  'Feldkirch':['6700','6701','6702','6703','6706','6707','6708','6710','6712','6713','6714','6719','6720','6721','6722','6723','6724','6725','6726','6727','6728','6730','6731','6732','6733','6741','6742','6744','6745','6751','6752','6753','6754','6755','6763','6764','6767','6771','6772','6773','6774','6780','6781','6782','6783','6784','6787','6791','6793','6794'],
+  'Bludenz':['6700','6721','6741','6751','6760','6761','6762','6763','6764','6767','6771','6772','6773','6774','6780','6781','6782','6783','6784','6787','6791','6793','6794','6800','6802','6804','6806','6807','6811','6812','6820','6822','6824','6830','6832','6833','6834','6835','6836','6837','6840','6841','6842','6844','6845','6861','6863','6866','6867','6870','6872','6874','6880','6881','6882','6883','6884','6886','6888']
+};
+
+/* ── Kategorien ── */
+const CATS={
+  'Kultur & Kunst':{keys:['kunst','literatur','darstellend','kulturinit','foto'],col:'#378ADD',text:'#0C447C'},
+  'Soziales & Familie':{keys:['mehling','sozial','frauen','betreuung','personal','elementar'],col:'#1D9E75',text:'#085041'},
+  'Sport & Jugend':{keys:['sport','jugend'],col:'#BA7517',text:'#633806'},
+  'Umwelt & Energie':{keys:['energie','natur','landschaft','abwasser','bewusstsein'],col:'#639922',text:'#27500A'},
+  'Wirtschaft':{keys:['wirtschaft','beherberg','fachverb','qualverb','forschung'],col:'#7F77DD',text:'#3C3489'},
+  'Sonstiges':{keys:[],col:'#888780',text:'#444441'}
+};
+
+function getCat(art){
+  if(!art) return 'Sonstiges';
+  const a=art.toLowerCase();
+  for(const [name,{keys}] of Object.entries(CATS)){
+    if(keys.some(k=>a.includes(k))) return name;
+  }
+  return 'Sonstiges';
+}
+
+function getTyp(name){
+  if(!name) return 'Unbekannt';
+  const n=name.toLowerCase();
+  if(n.includes('gemeinde')||n.includes('marktgemeinde')||n.includes('stadtgemeinde')||n.includes('stadt ')) return 'Gemeinde';
+  if(n.includes('verein')||n.includes('club')||n.includes('gesellschaft')) return 'Verein';
+  if(n.includes('gmbh')||n.includes(' ag')||n.includes('gmbh')||n.includes('kg')||n.includes('ges.m.b.h')) return 'GmbH / AG';
+  return 'Privatperson';
+}
+
+function getTypFilter(val){
+  const m={'gemeinde':'gemeinde','verein':'verein','gmbh':'gmbh','privat':null};
+  return m[val];
+}
+
+function getBezirkForPlz(plz){
+  for(const [b,codes] of Object.entries(BEZIRKE)){
+    if(codes.includes(plz)) return b;
+  }
+  return null;
+}
+
+function catBadge(cat){
+  const c=CATS[cat]||CATS['Sonstiges'];
+  return `<span class="badge" style="background:${c.col}22;color:${c.text};border:0.5px solid ${c.col}55;">${cat}</span>`;
+}
+
+const TYP_COLORS={'Gemeinde':'#378ADD','Verein':'#1D9E75','GmbH / AG':'#7F77DD','Privatperson':'#BA7517','Unbekannt':'#888780'};
+function typBadge(typ){
+  const c=TYP_COLORS[typ]||'#888780';
+  return `<span class="badge" style="background:${c}22;color:${c};border:0.5px solid ${c}55;">${typ}</span>`;
+}
+
+function fmt(n){return Math.round(parseFloat(n)||0).toLocaleString('de-AT');}
+function fmtDate(d){return d?d.slice(0,10).split('-').reverse().join('.'):'';} 
+function getYear(d){return d?d.slice(0,4):'';}
+function parseAmt(v){return parseFloat(v)||0;}
+
+function buildUrl(page){
+  const [sf,sd]=document.getElementById('f-sort').value.split('|');
+  const year=document.getElementById('f-year').value;
+  const plz=document.getElementById('f-plz').value;
+  const art=document.getElementById('f-art').value;
+  const q=document.getElementById('f-q').value.trim();
+  let u=`${BASE}?page=${page}&size=${SZ}&sort[0][field]=${sf}&sort[0][dir]=${sd}`;
+  const fs=[];
+  if(year) fs.push(`{"field":"auszahlungsdatum","type":"like","value":"${year}%"}`);
+  if(plz) fs.push(`{"field":"postleitzahl","type":"like","value":"${plz}%"}`);
+  if(art) fs.push(`{"field":"art","type":"=","value":"${art}"}`);
+  if(q) fs.push(`{"field":"empfänger","type":"like","value":"%${q}%"}`);
+  if(fs.length) u+=`&filter=${encodeURIComponent('['+fs.join(',')+']')}`;
+  return PROXY(u);
+}
+
+function applyClientFilters(rows){
+  const cat=document.getElementById('f-cat').value;
+  const typ=document.getElementById('f-typ').value;
+  const minA=parseInt(document.getElementById('sl-min').value)||0;
+  const maxA=parseInt(document.getElementById('sl-max').value)||999999999;
+  return rows.filter(r=>{
+    if(cat && getCat(r.art)!==cat) return false;
+    if(typ){
+      const t=getTyp(r.empfänger).toLowerCase();
+      if(typ==='gemeinde' && !t.includes('gemeinde')) return false;
+      if(typ==='verein' && !t.includes('verein')) return false;
+      if(typ==='gmbh' && !t.includes('gmbh')) return false;
+      if(typ==='privat' && t!=='privatperson') return false;
+    }
+    const a=parseAmt(r.auszahlungsbetrag);
+    if(a<minA||a>maxA) return false;
+    return true;
+  });
+}
+
+function calcMetrics(rows){
+  const sum=rows.reduce((s,r)=>s+parseAmt(r.auszahlungsbetrag),0);
+  document.getElementById('m-sum').textContent='€ '+fmt(sum);
+  document.getElementById('m-avg').textContent='€ '+fmt(rows.length?sum/rows.length:0);
+  document.getElementById('m-sub').textContent=rows.length+' Einträge';
+}
+
+function renderCharts(rows){
+  const kMap={};
+  rows.forEach(r=>{const k=getCat(r.art);kMap[k]=(kMap[k]||0)+parseAmt(r.auszahlungsbetrag);});
+  const kEntries=Object.entries(kMap).filter(([,v])=>v>0).sort((a,b)=>b[1]-a[1]);
+
+  document.getElementById('leg-cat').innerHTML=kEntries.map(([k])=>`<div class="legend-item"><span class="legend-dot" style="background:${CATS[k]?.col||'#888'}"></span>${k}</div>`).join('');
+  if(cKatInst)cKatInst.destroy();
+  cKatInst=new Chart(document.getElementById('cKat'),{type:'doughnut',data:{
+    labels:kEntries.map(([k])=>k),
+    datasets:[{data:kEntries.map(([,v])=>Math.round(v)),backgroundColor:kEntries.map(([k])=>CATS[k]?.col||'#888'),borderWidth:2}]
+  },options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{label:ctx=>' € '+Number(ctx.raw).toLocaleString('de-AT')}}}}});
+}
+
+async function loadMeta(){
+  const metaUrl=PROXY(`${BASE}?page=1&size=200&sort[0][field]=auszahlungsdatum&sort[0][dir]=desc`);
+  const d=await fetch(metaUrl).then(r=>r.json());
+  const total=d.stats?.total_records||0;
+  document.getElementById('m-tot').textContent=Number(total).toLocaleString('de-AT');
+  const rows=d.data||[];
+  document.getElementById('m-lat').textContent=fmtDate(rows[0]?.auszahlungsdatum);
+  document.getElementById('upd').textContent=`Daten: transparenz.vorarlberg.at · ${new Date().toLocaleDateString('de-AT')}`;
+
+  /* Älteste Seite für Jahresspanne */
+  const oldUrl=PROXY(`${BASE}?page=1&size=200&sort[0][field]=auszahlungsdatum&sort[0][dir]=asc`);
+  const dOld=await fetch(oldUrl).then(r=>r.json());
+  const allRows=[...rows,...(dOld.data||[])];
+
+  /* Jahre: alle möglichen Jahre zwischen ältestem und neuestem prüfen */
+  const newestYear=parseInt(getYear(rows[0]?.auszahlungsdatum)||'2026');
+  const oldestYear=parseInt(getYear((dOld.data||[]).slice(-1)[0]?.auszahlungsdatum)||'2020');
+  const years=[];
+  for(let y=newestYear;y>=oldestYear;y--) years.push(String(y));
+  const ys=document.getElementById('f-year');
+  years.forEach(y=>{const o=document.createElement('option');o.value=y;o.textContent=y;ys.appendChild(o);});
+
+  /* Bezirke */
+  const os=document.getElementById('f-plz');
+  Object.entries(BEZIRKE).forEach(([b,codes])=>{
+    const o=document.createElement('option');o.value=codes[0].slice(0,2);o.textContent='Bezirk '+b;os.appendChild(o);
+  });
+
+  /* Förderungsarten */
+  const arten=[...new Set(allRows.map(r=>r.art).filter(Boolean))].sort();
+  const as=document.getElementById('f-art');
+  arten.forEach(a=>{const o=document.createElement('option');o.value=a;o.textContent=a.length>50?a.slice(0,48)+'…':a;as.appendChild(o);});
+
+  /* Kategorien */
+  const cs=document.getElementById('f-cat');
+  Object.keys(CATS).forEach(k=>{const o=document.createElement('option');o.value=k;o.textContent=k;cs.appendChild(o);});
+
+  renderCharts(rows);calcMetrics(rows);
+  loadYearTotals(years);
+}
+
+async function loadYearTotals(years){
+  document.getElementById('jahr-note').textContent='wird geladen …';
+  const EXACT=['2024','2025','2026'];
+  const results=[];
+
+  for(const y of years){
+    const f=encodeURIComponent(`[{"field":"auszahlungsdatum","type":"like","value":"${y}%"}]`);
+    if(EXACT.includes(y)){
+      /* Alle Seiten durchladen */
+      let sum=0,p=1,lastPg=1;
+      do{
+        const url=PROXY(`${BASE}?page=${p}&size=100&sort[0][field]=auszahlungsdatum&sort[0][dir]=asc&filter=${f}`);
+        const d=await fetch(url).then(r=>r.json());
+        lastPg=d.last_page||1;
+        (d.data||[]).forEach(r=>sum+=parseAmt(r.auszahlungsbetrag));
+        p++;
+      }while(p<=lastPg&&p<=200);
+      results.push([y,sum,true]);
+    } else {
+      /* Schätzung: top 500 */
+      const url=PROXY(`${BASE}?page=1&size=500&sort[0][field]=auszahlungsbetrag&sort[0][dir]=desc&filter=${f}`);
+      const d=await fetch(url).then(r=>r.json());
+      const sum=(d.data||[]).reduce((s,r)=>s+parseAmt(r.auszahlungsbetrag),0);
+      results.push([y,sum,false]);
+    }
+  }
+
+  results.sort((a,b)=>a[0].localeCompare(b[0]));
+  document.getElementById('jahr-note').textContent='2024–2026 exakt · ältere Jahre geschätzt';
+
+  if(cJahrInst)cJahrInst.destroy();
+  cJahrInst=new Chart(document.getElementById('cJahr'),{type:'bar',data:{
+    labels:results.map(([y,,exact])=>exact?y:y+' *'),
+    datasets:[{label:'Summe (€)',data:results.map(([,v])=>Math.round(v)),
+      backgroundColor:results.map(([,,e])=>e?'#378ADD':'#378ADD55'),
+      borderColor:results.map(([,,e])=>e?'#378ADD':'#378ADD88'),
+      borderWidth:1}]
+  },options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{label:ctx=>' € '+Number(ctx.raw).toLocaleString('de-AT')}}},
+    scales:{y:{ticks:{callback:v=>'€ '+Number(v).toLocaleString('de-AT'),font:{size:11}}},x:{ticks:{font:{size:11}}}}}});
+}
+
+async function loadTopEmpfaenger(){
+  const year=document.getElementById('f-year').value;
+  const plz=document.getElementById('f-plz').value;
+  const art=document.getElementById('f-art').value;
+  const q=document.getElementById('f-q').value.trim();
+  const fs=[];
+  if(year) fs.push(`{"field":"auszahlungsdatum","type":"like","value":"${year}%"}`);
+  if(plz) fs.push(`{"field":"postleitzahl","type":"like","value":"${plz}%"}`);
+  if(art) fs.push(`{"field":"art","type":"=","value":"${art}"}`);
+  if(q) fs.push(`{"field":"empfänger","type":"like","value":"%${q}%"}`);
+  const f=fs.length?`&filter=${encodeURIComponent('['+fs.join(',')+']')}`:'';
+
+  /* Lade alle Seiten (max 50 = 2500 Einträge) um Top-Empfänger zu ermitteln */
+  const eMap={};
+  let p=1,lastPg=1;
+  do {
+    const url=PROXY(`${BASE}?page=${p}&size=50&sort[0][field]=auszahlungsbetrag&sort[0][dir]=desc${f}`);
+    const d=await fetch(url).then(r=>r.json());
+    lastPg=d.last_page||1;
+    applyClientFilters(d.data||[]).forEach(r=>{
+      const k=r.empfänger||'–';
+      eMap[k]=(eMap[k]||0)+parseAmt(r.auszahlungsbetrag);
+    });
+    p++;
+  } while(p<=Math.min(lastPg,50));
+
+  const top10=Object.entries(eMap).sort((a,b)=>b[1]-a[1]).slice(0,10);
+  const tickFmt=v=>'€ '+Number(v).toLocaleString('de-AT');
+  if(cEmpfInst)cEmpfInst.destroy();
+  cEmpfInst=new Chart(document.getElementById('cEmpf'),{type:'bar',data:{
+    labels:top10.map(([k])=>k.length>24?k.slice(0,22)+'…':k),
+    datasets:[{label:'Betrag',data:top10.map(([,v])=>Math.round(v)),
+      backgroundColor:top10.map((_,i)=>Object.values(CATS)[i%6].col+'cc')}]
+  },options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,
+    plugins:{legend:{display:false}},
+    scales:{x:{ticks:{callback:tickFmt,font:{size:11}}},y:{ticks:{font:{size:11}}}}}});
+
+  const label=year?`Top 10 Empfänger ${year}`:'Top 10 Empfänger (alle Jahre, Top 2500)';
+  document.querySelector('#cEmpf').closest('.cc').querySelector('h3').textContent=label;
+}
+
+async function loadTable(page){
+  document.getElementById('tbl-load').style.display='block';
+  document.getElementById('tbl').style.display='none';
+  document.getElementById('pg').style.display='none';
+  try{
+    const d=await fetch(buildUrl(page)).then(r=>r.json());
+    totPg=d.last_page||1;
+    const rows=applyClientFilters(d.data||[]);
+    const tb=document.getElementById('tbody');
+    tb.innerHTML='';
+    rows.forEach(r=>{
+      const tr=document.createElement('tr');
+      tr.innerHTML=`<td>${fmtDate(r.auszahlungsdatum)}</td><td>${r.empfänger||''}</td><td>${typBadge(getTyp(r.empfänger))}</td><td>${catBadge(getCat(r.art))}</td><td style="color:#5F5E5A;font-size:12px;">${r.ort||''}</td><td class="amt">€ ${fmt(r.auszahlungsbetrag)}</td>`;
+      tb.appendChild(tr);
+    });
+    document.getElementById('tbl-load').style.display='none';
+    document.getElementById('tbl').style.display='table';
+    document.getElementById('pg').style.display='flex';
+    document.getElementById('pInf').textContent=`Seite ${page} von ${Number(totPg).toLocaleString('de-AT')}`;
+    document.getElementById('bPrev').disabled=page<=1;
+    document.getElementById('bNext').disabled=page>=totPg;
+    calcMetrics(rows);renderCharts(rows);
+  }catch(e){
+    document.getElementById('tbl-load').innerHTML=`<div style="color:#a32d2d;padding:1rem;font-size:13px;">Fehler: ${e.message}</div>`;
+  }
+}
+
+/* Slider */
+document.getElementById('sl-min').addEventListener('input',function(){
+  document.getElementById('sl-min-val').textContent='€ '+Number(this.value).toLocaleString('de-AT');
+  clearTimeout(window._st);window._st=setTimeout(()=>{pg=1;loadTable(1);},400);
+});
+document.getElementById('sl-max').addEventListener('input',function(){
+  const v=parseInt(this.value);
+  document.getElementById('sl-max-val').textContent=v>=500000?'€ 500.000+':'€ '+Number(v).toLocaleString('de-AT');
+  clearTimeout(window._st);window._st=setTimeout(()=>{pg=1;loadTable(1);},400);
+});
+
+document.getElementById('bPrev').addEventListener('click',()=>{if(pg>1){pg--;loadTable(pg);}});
+document.getElementById('bNext').addEventListener('click',()=>{if(pg<totPg){pg++;loadTable(pg);}});
+['f-year','f-plz','f-typ','f-cat','f-art','f-sort'].forEach(id=>document.getElementById(id).addEventListener('change',()=>{pg=1;loadTable(1);loadTopEmpfaenger();}));
+let qt;document.getElementById('f-q').addEventListener('input',()=>{clearTimeout(qt);qt=setTimeout(()=>{pg=1;loadTable(1);loadTopEmpfaenger();},500);});
+
+loadMeta();loadTable(1);loadTopEmpfaenger();
+</script>
+</body>
+</html>
