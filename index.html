@@ -107,7 +107,10 @@ tr:hover td{background:#f8f7f4;}
   <div class="cc">
     <h3>Verteilung nach Kategorie</h3>
     <div id="leg-cat" class="legend"></div>
-    <div style="position:relative;height:220px;"><canvas id="cKat" role="img" aria-label="Kategorien">Lädt …</canvas></div>
+    <div style="position:relative;height:160px;"><canvas id="cKat" role="img" aria-label="Kategorien">Lädt …</canvas></div>
+    <h3 style="margin-top:.75rem;">Verteilung nach Empfängertyp</h3>
+    <div id="leg-typ" class="legend"></div>
+    <div style="position:relative;height:160px;"><canvas id="cTyp" role="img" aria-label="Empfängertypen">Lädt …</canvas></div>
   </div>
 </div>
 
@@ -179,7 +182,7 @@ function typBadge(typ){const c=TYP_COLORS[typ]||'#888780';return `<span class="b
 
 let allData=[],filtered=[],sortField='auszahlungsdatum',sortDir='desc',curPage=1;
 const PER_PAGE=50;
-let cEmpf,cKat,cJahr;
+let cEmpf,cKat,cTyp,cJahr;
 
 async function init(){
   const r=await fetch('data.json');
@@ -300,6 +303,17 @@ function renderCharts(){
   cKat=new Chart(document.getElementById('cKat'),{type:'doughnut',data:{
     labels:kE.map(([k])=>k),
     datasets:[{data:kE.map(([,v])=>Math.round(v)),backgroundColor:kE.map(([k])=>CATS[k]?.col||'#888'),borderWidth:2}]
+  },options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{label:ctx=>' € '+Number(ctx.raw).toLocaleString('de-AT')}}}}});
+
+  /* Empfängertypen */
+  const tMap={};
+  filtered.forEach(r=>{const t=getTyp(r.empfänger);tMap[t]=(tMap[t]||0)+parseAmt(r.auszahlungsbetrag);});
+  const tE=Object.entries(tMap).filter(([,v])=>v>0).sort((a,b)=>b[1]-a[1]);
+  document.getElementById('leg-typ').innerHTML=tE.map(([k])=>`<div class="legend-item"><span class="legend-dot" style="background:${TYP_COLORS[k]||'#888'}"></span>${k}</div>`).join('');
+  if(cTyp)cTyp.destroy();
+  cTyp=new Chart(document.getElementById('cTyp'),{type:'doughnut',data:{
+    labels:tE.map(([k])=>k),
+    datasets:[{data:tE.map(([,v])=>Math.round(v)),backgroundColor:tE.map(([k])=>TYP_COLORS[k]||'#888'),borderWidth:2}]
   },options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{label:ctx=>' € '+Number(ctx.raw).toLocaleString('de-AT')}}}}});
 
   if(cJahr)cJahr.destroy();
