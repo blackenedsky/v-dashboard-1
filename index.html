@@ -76,7 +76,7 @@ tr:hover td{background:#f8f7f4;}
     <div class="filter-grp"><span class="filter-lbl">Bezirk</span><select id="f-bezirk"><option value="">Alle Bezirke</option></select></div>
     <div class="filter-grp"><span class="filter-lbl">Kategorie</span><select id="f-cat"><option value="">Alle Kategorien</option></select></div>
     <div class="filter-grp"><span class="filter-lbl">Förderungsart</span><select id="f-art"><option value="">Alle Arten</option></select></div>
-    <div class="filter-grp"><span class="filter-lbl">Empfängertyp</span><select id="f-typ"><option value="">Alle Typen</option><option>Gemeinde</option><option>Verein</option><option>GmbH / AG</option><option>Privatperson</option></select></div>
+    <div class="filter-grp"><span class="filter-lbl">Empfängertyp</span><select id="f-typ"><option value="">Alle Typen</option><option>Gemeinde</option><option>Verein</option><option>GmbH / AG</option><option>Privatperson</option><option>Politik</option></select></div>
   </div>
   <div class="filter-row" style="margin-top:10px;">
     <div class="slider-grp">
@@ -160,7 +160,7 @@ function getCat(art){
 function getTyp(name){
   if(!name) return 'Sonstiges';
   const n=name.toLowerCase();
-  if(n.includes('gemeinde')||n.includes('stadtgemeinde')||n.includes('marktgemeinde')) return 'Gemeinde';
+  if(n.includes('gemeinde')||n.includes('stadtgemeinde')||n.includes('marktgemeinde')||n.startsWith('stadt ')||n.endsWith(' stadt')||n==='stadt bregenz'||n.includes('magistrat')||n.includes('dornbirn')||n.includes('bregenz')||n.includes('feldkirch')||n.includes('bludenz')) return 'Gemeinde';
   if(n.includes('verein')||n.includes(' club')) return 'Verein';
   if(n.includes('gmbh')||n.includes(' ag')||n.includes('ges.m.b.h')||n.includes(' kg')) return 'GmbH / AG';
   return 'Privatperson';
