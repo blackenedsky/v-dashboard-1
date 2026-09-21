@@ -1,7 +1,4519 @@
 {
-  "downloaded": "2026-09-14T12:20:11.795072",
-  "total": 65645,
+  "downloaded": "2026-09-21T12:27:44.549637",
+  "total": 66209,
   "data": [
+    {
+      "art": "Fraktionenförderung",
+      "empfänger": "ÖVP-Landtagsklub Vorarlberg",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-20 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3131726e5"
+    },
+    {
+      "art": "Fraktionenförderung",
+      "empfänger": "Klub der Freiheitlichen Abgeordneten im Vorarlberger Landtag",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-20 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3075926e5"
+    },
+    {
+      "art": "Fraktionenförderung",
+      "empfänger": "Grüner Klub im Vbg. Landtag",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-20 00:00:00 +0000",
+      "auszahlungsbetrag": "0.188322e5"
+    },
+    {
+      "art": "Fraktionenförderung",
+      "empfänger": "Landtagsklub SPÖ Vorarlberg",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-20 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2580709e5"
+    },
+    {
+      "art": "Fraktionenförderung",
+      "empfänger": "Landtagsklub Neos Vorarlberg",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-20 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2580709e5"
+    },
+    {
+      "art": "Einmalige Förderung bei Mehrlingsgeburten des Landes Vorarlberg",
+      "empfänger": "Malina Atanasova",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:03 +0000",
+      "auszahlungsbetrag": "0.8e3"
+    },
+    {
+      "art": "Beitrag zur Qualitätssicherung und Marketing",
+      "empfänger": "Ländle Qualitätsprodukte Marketing GmbH ",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.81125e5"
+    },
+    {
+      "art": "Beitrag zur Qualitätssicherung und Marketing",
+      "empfänger": "Bio Vorarlberg Produktion u Handel  reg Gen mbH ",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1525e5"
+    },
+    {
+      "art": "Beitrag zur Qualitätssicherung und Marketing",
+      "empfänger": "BIO AUSTRIA Vorarlberg ",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1525e5"
+    },
+    {
+      "art": "Allgemeine landw. Bildung und Beratung - LK",
+      "empfänger": "Landwirtschaftskammer Vorarlberg ",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.241e5"
+    },
+    {
+      "art": "Beitrag z.landwirtschaftlichen Betriebshelferdienst - LK",
+      "empfänger": "Landwirtschaftskammer Vorarlberg ",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.26e5"
+    },
+    {
+      "art": "Förd.sozialer Maßn.f. land-u.forstwirtsch.Dienstnehmer - LK",
+      "empfänger": "Landwirtschaftskammer Vorarlberg ",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.8e4"
+    },
+    {
+      "art": "Bildung und Beratung f. d. landwirtschaftl. Produktion - LK",
+      "empfänger": "Landwirtschaftskammer Vorarlberg ",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.596e5"
+    },
+    {
+      "art": "Förderung der allgemeinen Erwachsenenbildung",
+      "empfänger": "Katholisches Bildungswerk Vorarlberg",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1065e5"
+    },
+    {
+      "art": "Förderung der allgemeinen Erwachsenenbildung",
+      "empfänger": "Bildungshaus Batschuns gGmbH",
+      "ort": "Zwischenwasser",
+      "postleitzahl": "6835",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.29275e5"
+    },
+    {
+      "art": "Förderung der allgemeinen Erwachsenenbildung",
+      "empfänger": "Jugend- und Bildungshaus St. Arbogast GmbH & Co KG ",
+      "ort": "Götzis",
+      "postleitzahl": "6840",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25075e5"
+    },
+    {
+      "art": "Soziale Staffelung der Betreuungstarife in elementarpädagogischen Einrichtungen",
+      "empfänger": "Kinderbetreuung Vorarlberg gGmbH ",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.111346e5"
+    },
+    {
+      "art": "Förderung von 3-jährigen an Gemeinden",
+      "empfänger": "Gemeinde Koblach ",
+      "ort": "Koblach",
+      "postleitzahl": "6842",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.392e3"
+    },
+    {
+      "art": "Soziale Staffelung der Betreuungstarife in elementarpädagogischen Einrichtungen",
+      "empfänger": "Kinderbetreuung Vorarlberg gGmbH ",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.66e3"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Mimosa - Frauenverein für Dialog, Bildung und Kultur ",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.519258e4"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Kinderbetreuung Löwenzahn & Seidenpfote - Verein Zukunftswerkstätte HERON",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.215181e5"
+    },
+    {
+      "art": "Förderung der allgemeinen Erwachsenenbildung",
+      "empfänger": "Bifo Berufs- und Bildungsinformation Vorarlberg gemeinnützige GmbH",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e5"
+    },
+    {
+      "art": "Förderung d.betriebl.Forschung u.Entwicklung",
+      "empfänger": "subdron GmbH ",
+      "ort": "Lauterach",
+      "postleitzahl": "6923",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2045088e5"
+    },
+    {
+      "art": "Förderung der Teilnahme an wissenschaftlichen Veranstaltungen (Vorarlberger Nachwuchswissenschafter:innen)",
+      "empfänger": "Carla Schwaderer",
+      "ort": "Wien",
+      "postleitzahl": "1170",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.35e3"
+    },
+    {
+      "art": "Förderung d.betriebl.Forschung u.Entwicklung",
+      "empfänger": "Thien eDrives GmbH",
+      "ort": "Lustenau",
+      "postleitzahl": "6890",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.63615e4"
+    },
+    {
+      "art": "Förderung wissenschaftlicher Arbeiten (Projekte, Publikationen, Veranstaltungen…)",
+      "empfänger": "Dr. Friedrich Pfeil (Verlag Dr. Friedrich Pfeil) Friedrich",
+      "ort": "Bergkirchen OT Günding (Deutschland)",
+      "postleitzahl": "85232",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e4"
+    },
+    {
+      "art": "Landesstromkostenzuschuss",
+      "empfänger": "MyElectric Energievertriebs- und -dienstleistungs GmbH",
+      "ort": "Wien",
+      "postleitzahl": "1150",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.8034e4"
+    },
+    {
+      "art": "Förderung von 3-jährigen an Gemeinden",
+      "empfänger": "Gemeinde St. Gallenkirch ",
+      "ort": "St. Gallenkirch",
+      "postleitzahl": "6791",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6144e4"
+    },
+    {
+      "art": "Landesstromkostenzuschuss",
+      "empfänger": "illwerke vkw AG ",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.216657e4"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Albrecht August",
+      "ort": "Schoppernau",
+      "postleitzahl": "6886",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1976e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Albrecht Martin",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e2"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Bechter Sylvia Maria",
+      "ort": "Lingenau",
+      "postleitzahl": "6951",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5168e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Beer Mathias",
+      "ort": "Schnepfau",
+      "postleitzahl": "6882",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.204e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Beer Stefan",
+      "ort": "Schoppernau",
+      "postleitzahl": "6886",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2288e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Berchtold Martina und Johannes",
+      "ort": "Schnepfau",
+      "postleitzahl": "6882",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.964e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Bereuter Merbot",
+      "ort": "Alberschwende",
+      "postleitzahl": "6861",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.74e2"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Bertel Nikolaus",
+      "ort": "Blons",
+      "postleitzahl": "6723",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.77936e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Bischof Bruno, Bischof Lukas",
+      "ort": "Damüls",
+      "postleitzahl": "6884",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.696e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Bitschnau Andreas",
+      "ort": "Bartholomäberg",
+      "postleitzahl": "6781",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Bitschnau Franz",
+      "ort": "Schruns",
+      "postleitzahl": "6780",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.448e2"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Bitschnau Tobias",
+      "ort": "Bartholomäberg",
+      "postleitzahl": "6781",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.44e2"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Brunner Nadine und Roland",
+      "ort": "Dalaas",
+      "postleitzahl": "6752",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.172e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Burtscher Franz",
+      "ort": "Thüringerberg",
+      "postleitzahl": "6721",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.23952e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Burtscher Waltraud",
+      "ort": "Bludenz",
+      "postleitzahl": "6751",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.19904e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Dalpez Maximilian, Regensburger Marcel",
+      "ort": "Schnifis",
+      "postleitzahl": "6822",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.202e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Domig Frank",
+      "ort": "Fontanella",
+      "postleitzahl": "6733",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.168e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Felder Adele",
+      "ort": "Schoppernau",
+      "postleitzahl": "6886",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.728e2"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Feurstein Jenny und Michael",
+      "ort": "Au",
+      "postleitzahl": "6883",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.273168e4"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Ganahl Thomas",
+      "ort": "Bartholomäberg",
+      "postleitzahl": "6781",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.44136e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Gantner, Kessler PG",
+      "ort": "Satteins",
+      "postleitzahl": "6822",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.24e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Geiger Theresa und Daniel",
+      "ort": "Au",
+      "postleitzahl": "6883",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3144e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Greber Anton",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e4"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Greber Carina und Benjamin",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.908e2"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Greber Helmut",
+      "ort": "Au",
+      "postleitzahl": "6883",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.128e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Greber Herbert",
+      "ort": "Bartholomäberg",
+      "postleitzahl": "6781",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.148e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Greber Josef, Greber Stefan",
+      "ort": "Bezau",
+      "postleitzahl": "6870",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.88e2"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Hartmann Markus",
+      "ort": "Dünserberg",
+      "postleitzahl": "6822",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.60248e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Kaufmann Martin",
+      "ort": "Reuthe",
+      "postleitzahl": "6870",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.324e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Kempf Wilhelm",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.102e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Kessler Norbert",
+      "ort": "Klösterle",
+      "postleitzahl": "6754",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4e2"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Kohler Rupert",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.128e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Konzett Robert",
+      "ort": "Fontanella",
+      "postleitzahl": "6733",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.68e2"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Küng Martin",
+      "ort": "St. Gerold",
+      "postleitzahl": "6722",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.44e2"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Lampert Norbert",
+      "ort": "Götzis",
+      "postleitzahl": "6840",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.19936e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Lässer Bernhard",
+      "ort": "Lingenau",
+      "postleitzahl": "6951",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.27128e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Marent Hildegard",
+      "ort": "Tschagguns",
+      "postleitzahl": "6774",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1052e4"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Martin Stefan",
+      "ort": "Fontanella",
+      "postleitzahl": "6733",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.84e2"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Metzler Alfons",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.207336e4"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Metzler Anna und Jonas",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.42e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Meusburger Daniel",
+      "ort": "Bizau",
+      "postleitzahl": "6874",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.56e2"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Meusburger Franz Josef, Stetter Daniela",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.11864e4"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Meusburger Jürgen",
+      "ort": "Bizau",
+      "postleitzahl": "6874",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.96176e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Moosbrugger Fridolin, Moosbrugger Anna",
+      "ort": "Bizau",
+      "postleitzahl": "6874",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.104e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Moosmann Christian",
+      "ort": "Mellau",
+      "postleitzahl": "6881",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.644e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Müller Bertram",
+      "ort": "St. Gerold",
+      "postleitzahl": "6722",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.104e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Müller Fabian Rudolf",
+      "ort": "St. Gerold",
+      "postleitzahl": "6722",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.8936e2"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Netzer Thomas",
+      "ort": "St. Gallenkirch",
+      "postleitzahl": "6791",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.92e2"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Neuhauser Manuel, Neuhauser Imelda",
+      "ort": "Dalaas",
+      "postleitzahl": "6752",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.558e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Nigsch Bernd",
+      "ort": "Langen bei Bregenz",
+      "postleitzahl": "6932",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5672e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Nussbaumer Markus",
+      "ort": "Lingenau",
+      "postleitzahl": "6951",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.64072e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Nussbaumer Martin",
+      "ort": "Lingenau",
+      "postleitzahl": "6951",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.168e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Pfister Bernd",
+      "ort": "St. Gerold",
+      "postleitzahl": "6722",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.66e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Pfister Helene",
+      "ort": "Blons",
+      "postleitzahl": "6723",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.84e2"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Rauch Dorothea",
+      "ort": "Dünserberg",
+      "postleitzahl": "6822",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.48e2"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Rauch Hubert",
+      "ort": "Dünserberg",
+      "postleitzahl": "6822",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.194e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Reheis David",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.16e4"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Rheinberger Hartwig",
+      "ort": "Zwischenwasser",
+      "postleitzahl": "6835",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.132e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Ritter Christian",
+      "ort": "Schoppernau",
+      "postleitzahl": "6886",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.32136e4"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Rüf Michael, Rüf Hermann",
+      "ort": "Au",
+      "postleitzahl": "6883",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.21e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Salzgeber Elfriede und Peter",
+      "ort": "Tschagguns",
+      "postleitzahl": "6774",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.622e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Salzgeber Leonhard",
+      "ort": "Klösterle",
+      "postleitzahl": "6754",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.356e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Schneider Renate und Reinhard",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.85e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Schöch Johann",
+      "ort": "Göfis",
+      "postleitzahl": "6811",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.416e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Stark Kurt",
+      "ort": "Fontanella",
+      "postleitzahl": "6733",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.304e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Stemer Christoph",
+      "ort": "Bartholomäberg",
+      "postleitzahl": "6781",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.22536e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Studer Anton, Studer Christof",
+      "ort": "St. Gerold",
+      "postleitzahl": "6722",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.104e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Sutter Christian",
+      "ort": "Mellau",
+      "postleitzahl": "6881",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1722e4"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Tschann Michaela",
+      "ort": "Raggal",
+      "postleitzahl": "6741",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.392e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Türtscher Peter",
+      "ort": "Sonntag",
+      "postleitzahl": "6731",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.208e3"
+    },
+    {
+      "art": "Beiträge für Maschinenring- und Bermaschineneinsätze",
+      "empfänger": "Vonier Roland",
+      "ort": "Tschagguns",
+      "postleitzahl": "6774",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.744e3"
+    },
+    {
+      "art": "Förd.d.Mannschaftsspitzensport b.gesamtösterr. u.int.Bewerb.",
+      "empfänger": "Dart Rebellen Bregenzerwald",
+      "ort": "Bezau",
+      "postleitzahl": "6870",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.96e3"
+    },
+    {
+      "art": "Förd.d.Mannschaftsspitzensport b.gesamtösterr. u.int.Bewerb.",
+      "empfänger": "Pioneers Vorarlberg ",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e5"
+    },
+    {
+      "art": "Förd.d.Mannschaftsspitzensport b.gesamtösterr. u.int.Bewerb.",
+      "empfänger": "SCR Altach ",
+      "ort": "Altach",
+      "postleitzahl": "6844",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e5"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Gemeinde Langen bei Bregenz ",
+      "ort": "Langen bei Bregenz",
+      "postleitzahl": "6932",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3082108e5"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Gemeinde Sulzberg ",
+      "ort": "Sulzberg",
+      "postleitzahl": "6934",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3923096e5"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Marktgemeinde Egg ",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6712066e5"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Gemeinde Doren ",
+      "ort": "Doren",
+      "postleitzahl": "6933",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1393267e5"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Gemeinde Eichenberg ",
+      "ort": "Eichenberg",
+      "postleitzahl": "6911",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.669236e4"
+    },
+    {
+      "art": "Unterstützung für die Viehhaltung",
+      "empfänger": "Beck Monika",
+      "ort": "Hittisau",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.285422e4"
+    },
+    {
+      "art": "Zahlung für Umweltleistungen",
+      "empfänger": "Beck Monika",
+      "ort": "Hittisau",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.148147e4"
+    },
+    {
+      "art": "Zahlung für Umweltleistungen",
+      "empfänger": "Gugele Martin",
+      "ort": "Fußach",
+      "postleitzahl": "6972",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.96293e3"
+    },
+    {
+      "art": "Förderung f. Jungunternehmer",
+      "empfänger": "Gsiberg Alpaka Gmeiner e.U.",
+      "ort": "Alberschwende",
+      "postleitzahl": "6861",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.163421e4"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Impuls Kinder ",
+      "ort": "Wolfurt",
+      "postleitzahl": "6922",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1929571e5"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Verein Waldkinder Hörbranz ",
+      "ort": "Hörbranz",
+      "postleitzahl": "6912",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.794209e4"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Kinderstube Höchst ",
+      "ort": "Höchst",
+      "postleitzahl": "6973",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.7082663e5"
+    },
+    {
+      "art": "Beitrag z.landwirtschaftlichen Betriebshelferdienst - LK",
+      "empfänger": "Landwirtschaftskammer Vorarlberg ",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.26e5"
+    },
+    {
+      "art": "Förd.sozialer Maßn.f. land-u.forstwirtsch.Dienstnehmer - LK",
+      "empfänger": "Landwirtschaftskammer Vorarlberg ",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.8e4"
+    },
+    {
+      "art": "Bildung und Beratung f. d. landwirtschaftl. Produktion - LK",
+      "empfänger": "Landwirtschaftskammer Vorarlberg ",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.596e5"
+    },
+    {
+      "art": "Förderung des Musikschulwesens und der Musikausbildung in Vorarlberg",
+      "empfänger": "Musikschule am Hofsteig",
+      "ort": "Wolfurt",
+      "postleitzahl": "6922",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.45420413e6"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Marktgemeinde Hörbranz ",
+      "ort": "Hörbranz",
+      "postleitzahl": "6912",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.10208235e6"
+    },
+    {
+      "art": "Förderung des Musikschulwesens und der Musikausbildung in Vorarlberg",
+      "empfänger": "Musikschule Bregenzerwald",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.70215074e6"
+    },
+    {
+      "art": "Förderung des Musikschulwesens und der Musikausbildung in Vorarlberg",
+      "empfänger": "Musikschule Klostertal",
+      "ort": "Innerbraz",
+      "postleitzahl": "6751",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.10801651e6"
+    },
+    {
+      "art": "Förderung des Musikschulwesens und der Musikausbildung in Vorarlberg",
+      "empfänger": "Musikschule Mittleres Rheintal Gemeinnützige GmbH Tonart Musikschule",
+      "ort": "Hohenems",
+      "postleitzahl": "6845",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.51925229e6"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Landeshauptstadt Bregenz",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.46369792e6"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr. Willomitzer Christian",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e2"
+    },
+    {
+      "art": "Zinsenzuschüsse für ldw. Betriebe (ehemaliger Siedlungsfonds)",
+      "empfänger": "Raiffeisenlandesbank Vorarlberg",
+      "ort": "Bregenz",
+      "postleitzahl": "6901",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.14086e3"
+    },
+    {
+      "art": "AIK Zinsenzuschüsse für landwirtschaftliche Betriebe",
+      "empfänger": "Raiffeisenlandesbank Vorarlberg",
+      "ort": "Bregenz",
+      "postleitzahl": "6901",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.10512067e6"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr. Gann Nicole",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e2"
+    },
+    {
+      "art": "Großraubwild - Herdenschutz u. Entschädigungen an Landwirte",
+      "empfänger": "Agrargem. Alpengenossenschaft Latons",
+      "ort": "Bartholomäberg",
+      "postleitzahl": "6781",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e3"
+    },
+    {
+      "art": "Großraubwild - Herdenschutz u. Entschädigungen an Landwirte",
+      "empfänger": "Bitschnau Michaela und Kessler Martin",
+      "ort": "Bartholomäberg",
+      "postleitzahl": "6781",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.48375e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Fetz Kilian, Fetz Helga",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.10773e4"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Moosbrugger Jakob",
+      "ort": "Bezau",
+      "postleitzahl": "6870",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.69552e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Lins Marion",
+      "ort": "Hittisau",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6597e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Agrargem. Dürrwald",
+      "ort": "Schellenberg (Liechtenstein)",
+      "postleitzahl": "9488",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.105336e4"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Kathan Martin",
+      "ort": "Weiler",
+      "postleitzahl": "6837",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6282e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Alpgen. Frastanz ",
+      "ort": "Frastanz",
+      "postleitzahl": "6820",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4277e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Alpe Geiersberg ",
+      "ort": "Schröcken",
+      "postleitzahl": "6888",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6552e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Schneider Renate und Reinhard",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.645e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Feurle Christian",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.50175e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Feurle Christian",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5055e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Feurle Christian",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.47925e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Agrargemeinschaft Alpe Heuberg",
+      "ort": "Rankweil",
+      "postleitzahl": "6830",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.93492e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Rheinberger Hartwig",
+      "ort": "Zwischenwasser",
+      "postleitzahl": "6835",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3575e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Berktold David",
+      "ort": "Oberstdorf",
+      "postleitzahl": "87561",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.47481e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Fessler Patrick",
+      "ort": "Hörbranz",
+      "postleitzahl": "6912",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1863e4"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Malin Helga",
+      "ort": "Klaus",
+      "postleitzahl": "6833",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5472e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Dobler Christoph",
+      "ort": "Blons",
+      "postleitzahl": "6723",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.43575e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Schwarzmann-Bechter Edith",
+      "ort": "Langenegg",
+      "postleitzahl": "6941",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.504e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Tschofen Alexander",
+      "ort": "St. Gallenkirch",
+      "postleitzahl": "6791",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.7731e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Alpint. Alpe Innergweil ",
+      "ort": "St. Gallenkirch",
+      "postleitzahl": "6791",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.44604e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Held Silvia",
+      "ort": "Riefensberg",
+      "postleitzahl": "6943",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.9837e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Hofer Michael und Hofer Hermann jun.",
+      "ort": "Lustenau",
+      "postleitzahl": "6890",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6273e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Agrargem. Alpgen. Netzen ",
+      "ort": "St. Gallenkirch",
+      "postleitzahl": "6791",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.214872e4"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Vonbank Ernst",
+      "ort": "Braz",
+      "postleitzahl": "6751",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.92232e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Alpe Oberfelli ",
+      "ort": "Bezau",
+      "postleitzahl": "6870",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.882e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Kiesling Josef Franz, Kiesling Nadja Franziska",
+      "ort": "Bludenz",
+      "postleitzahl": "6700",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.45e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Kiesling Josef Franz, Kiesling Nadja Franziska",
+      "ort": "Bludenz",
+      "postleitzahl": "6700",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.96012e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Held Josef",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3624e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Witwer Gudrun",
+      "ort": "Bürs",
+      "postleitzahl": "6706",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.34875e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Bitsche Karin",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.8055e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Konrad Miriam ",
+      "ort": "Klösterle",
+      "postleitzahl": "6754",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.117096e4"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Agrargem. Nenzing ",
+      "ort": "Nenzing",
+      "postleitzahl": "6710",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.50918e4"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Berchtold Edwin",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.774e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Greber Claudia und Ignaz",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.7956e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Hofer Michael und Hofer Hermann jun.",
+      "ort": "Lustenau",
+      "postleitzahl": "6890",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6696e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Bürkle Elfriede",
+      "ort": "Bürs",
+      "postleitzahl": "6706",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.26964e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Müller Bertram",
+      "ort": "St. Gerold",
+      "postleitzahl": "6722",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.44025e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Kessler Manfred, Schmidinger Julia",
+      "ort": "Tschagguns",
+      "postleitzahl": "6774",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.711e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Walch Jakob",
+      "ort": "Lech",
+      "postleitzahl": "6764",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4355e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Agrargemeinschaft Tiefensee-Klesi",
+      "ort": "Ludesch",
+      "postleitzahl": "6713",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.241248e4"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Haller Markus",
+      "ort": "Hittisau",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.69384e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Mungenast Werner",
+      "ort": "Flirsch",
+      "postleitzahl": "6572",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6588e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Agrargem. Gemeine Brongen u. Triesten",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.10808e4"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Bischof Thomas",
+      "ort": "Ludesch",
+      "postleitzahl": "6713",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4185e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Agrargemeinschaft Valzifenz",
+      "ort": "Bludesch",
+      "postleitzahl": "6719",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.7326e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Meusburger Johann-Peter ",
+      "ort": "Bizau",
+      "postleitzahl": "6874",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.48132e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Agrargemeinschaft Alpe Zalim",
+      "ort": "Brand",
+      "postleitzahl": "6708",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.549e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Winder Peter",
+      "ort": "Alberschwende",
+      "postleitzahl": "6861",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.873e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Voppichler Mathias u. Florian",
+      "ort": "Hittisau",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.7902e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Würfl Konrad",
+      "ort": "Lech",
+      "postleitzahl": "6764",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6076e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Agrargem. Gaden-Madona",
+      "ort": "Sonntag",
+      "postleitzahl": "6731",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.11137e4"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Alpe Hensler",
+      "ort": "Rankweil",
+      "postleitzahl": "6860",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.7434e3"
+    },
+    {
+      "art": "Förderung von gesundem Mittagessen aus der Region (Kinder.Essen.Körig)",
+      "empfänger": "Gemeinde Andelsbuch ",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.172705e5"
+    },
+    {
+      "art": "Förderung von gesundem Mittagessen aus der Region (Kinder.Essen.Körig)",
+      "empfänger": "Amt der Stadt Dornbirn",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.148876e6"
+    },
+    {
+      "art": "Beiträge zur Be- und Entwässerung",
+      "empfänger": "Moosbrugger Jürgen",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4445e4"
+    },
+    {
+      "art": "Beiträge zur Be- und Entwässerung",
+      "empfänger": "Eugster Mathias",
+      "ort": "Langenegg",
+      "postleitzahl": "6941",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2493e4"
+    },
+    {
+      "art": "Beiträge zur Be- und Entwässerung",
+      "empfänger": "Eberle Simon",
+      "ort": "Langenegg",
+      "postleitzahl": "6941",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2431e4"
+    },
+    {
+      "art": "Beiträge zur Rutschhangsanierung",
+      "empfänger": "Hagspiel Reinhard",
+      "ort": "Lingenau",
+      "postleitzahl": "6951",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1096e5"
+    },
+    {
+      "art": "Beiträge zur Rutschhangsanierung",
+      "empfänger": "Nussbaumer Kaspar",
+      "ort": "Lingenau",
+      "postleitzahl": "6951",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2807e4"
+    },
+    {
+      "art": "Beiträge zur Rutschhangsanierung",
+      "empfänger": "Steurer Maria Magdalena",
+      "ort": "Sibratsgfäll",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.7444e4"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr Groß Herbert",
+      "ort": "Lauterach",
+      "postleitzahl": "6923",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e2"
+    },
+    {
+      "art": "Elementarschäden Private",
+      "empfänger": "Gw.-Gen. Buch-Siegerhalde",
+      "ort": "Buch",
+      "postleitzahl": "6960",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1881577e5"
+    },
+    {
+      "art": "Elementarschäden Private",
+      "empfänger": "Gw.-Gen. Buch-Siegerhalde",
+      "ort": "Buch",
+      "postleitzahl": "6960",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.276277e4"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Gemeinde Krumbach ",
+      "ort": "Krumbach",
+      "postleitzahl": "6942",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.10905e3"
+    },
+    {
+      "art": "Beitrag zur Qualitätssicherung und Marketing",
+      "empfänger": "Ländle Qualitätsprodukte Marketing GmbH ",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.81125e5"
+    },
+    {
+      "art": "Beitrag zur Qualitätssicherung und Marketing",
+      "empfänger": "Bio Vorarlberg Produktion u Handel  reg Gen mbH ",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1525e5"
+    },
+    {
+      "art": "Beitrag zur Qualitätssicherung und Marketing",
+      "empfänger": "BIO AUSTRIA Vorarlberg ",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1525e5"
+    },
+    {
+      "art": "Allgemeine landw. Bildung und Beratung - LK",
+      "empfänger": "Landwirtschaftskammer Vorarlberg ",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.241e5"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Achberger Lucia",
+      "ort": "Hohenweiler",
+      "postleitzahl": "6914",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Albrecht Helmut",
+      "ort": "Au",
+      "postleitzahl": "6883",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Baldauf Bernhard",
+      "ort": "Doren",
+      "postleitzahl": "6933",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Baldauf Dietmar",
+      "ort": "Sulzberg",
+      "postleitzahl": "6934",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bechter Sylvia Maria",
+      "ort": "Lingenau",
+      "postleitzahl": "6951",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bechter Josef, Bechter Christian",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bechter Markus",
+      "ort": "Hittisau",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Beck Monika",
+      "ort": "Hittisau",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Beer Walter",
+      "ort": "Schoppernau",
+      "postleitzahl": "6886",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Berchtold Andreas",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bereuter Jürgen",
+      "ort": "Alberschwende",
+      "postleitzahl": "6861",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bereuter Raffael",
+      "ort": "Sibratsgfäll",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bereuter Merbot",
+      "ort": "Alberschwende",
+      "postleitzahl": "6861",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bereuter Gottfried",
+      "ort": "Lingenau",
+      "postleitzahl": "6951",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bereuter Georg",
+      "ort": "Sibratsgfäll",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bereuter Lukas",
+      "ort": "Alberschwende",
+      "postleitzahl": "6861",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Berkmann Johannes",
+      "ort": "Hohenweiler",
+      "postleitzahl": "6914",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Berlinger Xaver",
+      "ort": "Au",
+      "postleitzahl": "6883",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Berbig Annemarie",
+      "ort": "Au",
+      "postleitzahl": "6883",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.35e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bernhard Sebastian",
+      "ort": "Eichenberg",
+      "postleitzahl": "6911",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bertsch Martin",
+      "ort": "Mellau",
+      "postleitzahl": "6881",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bickel Lukas",
+      "ort": "Blons",
+      "postleitzahl": "6723",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bickel Martina und Harald",
+      "ort": "Warth",
+      "postleitzahl": "6767",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Kohler Edelbert",
+      "ort": "Riefensberg",
+      "postleitzahl": "6943",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Gassner Nico",
+      "ort": "Satteins",
+      "postleitzahl": "6822",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bischof Thomas",
+      "ort": "Ludesch",
+      "postleitzahl": "6713",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.135e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bischof Bruno, Bischof Lukas",
+      "ort": "Damüls",
+      "postleitzahl": "6884",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bischof Kolumban",
+      "ort": "Damüls",
+      "postleitzahl": "6884",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bischof Josef",
+      "ort": "Lingenau",
+      "postleitzahl": "6951",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bischof Wilfried",
+      "ort": "Thüringerberg",
+      "postleitzahl": "6721",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.85e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bitsche Barbara",
+      "ort": "Thüringen",
+      "postleitzahl": "6712",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bitschnau Peter",
+      "ort": "Tschagguns",
+      "postleitzahl": "6774",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bitschnau Stefan",
+      "ort": "Bludenz",
+      "postleitzahl": "6751",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Steurer Josef",
+      "ort": "Möggers",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Blank Konrad",
+      "ort": "Sulzberg",
+      "postleitzahl": "6934",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bösch Manfred",
+      "ort": "Höchst",
+      "postleitzahl": "6973",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.35e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Böckle PG",
+      "ort": "Götzis",
+      "postleitzahl": "6840",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bolter Josef",
+      "ort": "Alberschwende",
+      "postleitzahl": "6861",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Breuss Beatrix",
+      "ort": "Übersaxen",
+      "postleitzahl": "6834",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Brugger Markus",
+      "ort": "Schruns",
+      "postleitzahl": "6780",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Brunner Helgar",
+      "ort": "Höchst",
+      "postleitzahl": "6973",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Büchele Elmar, Oberhauser Helga",
+      "ort": "Alberschwende",
+      "postleitzahl": "6861",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Burtscher Gerlinde und Georg",
+      "ort": "Fontanella",
+      "postleitzahl": "6733",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.85e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Denz Franz",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Dobler Joachim",
+      "ort": "Thüringerberg",
+      "postleitzahl": "6721",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Dorner David",
+      "ort": "Sulzberg",
+      "postleitzahl": "6934",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Dünser Peter",
+      "ort": "Schnifis",
+      "postleitzahl": "6822",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Dür Ludwina, Dür Michael",
+      "ort": "Alberschwende",
+      "postleitzahl": "6861",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Timmerer Christina",
+      "ort": "Hittisau",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Oberhauser Marlis und Michael",
+      "ort": "Bezau",
+      "postleitzahl": "6870",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Egger Anton",
+      "ort": "Nenzing",
+      "postleitzahl": "6820",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.45e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Eiler Klaudia",
+      "ort": "Alberschwende",
+      "postleitzahl": "6861",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Erath Mathias",
+      "ort": "Au",
+      "postleitzahl": "6883",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Eugster Sabine und Martin",
+      "ort": "Langenegg",
+      "postleitzahl": "6941",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Burtscher Ruth",
+      "ort": "Innerbraz",
+      "postleitzahl": "6751",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.45e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Fechtig Stefanie und Josef",
+      "ort": "Bezau",
+      "postleitzahl": "6870",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Fehr Manuela und Leopold",
+      "ort": "Lingenau",
+      "postleitzahl": "6951",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Dodier Daniel",
+      "ort": "Riezlern",
+      "postleitzahl": "6991",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Fessler Patrick",
+      "ort": "Hörbranz",
+      "postleitzahl": "6912",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Fessler Waltraud und Martin",
+      "ort": "Langen bei Bregenz",
+      "postleitzahl": "6932",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Fetz Alexander",
+      "ort": "Bezau",
+      "postleitzahl": "6870",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Feuerstein Alois",
+      "ort": "Sibratsgfäll",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Feuerstein Josef",
+      "ort": "Bildstein",
+      "postleitzahl": "6858",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Feurle Erika",
+      "ort": "Sulzberg",
+      "postleitzahl": "6934",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Feurstein Josef",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Feurstein Jenny und Michael",
+      "ort": "Au",
+      "postleitzahl": "6883",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Feurstein Wendelin, Feurstein Lukas",
+      "ort": "Alberschwende",
+      "postleitzahl": "6861",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Meusburger Franz Josef, Stetter Daniela",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Fink Viktoria und Herbert",
+      "ort": "Sulzberg",
+      "postleitzahl": "6934",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Fink Mathias",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Fink Wolfgang",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Fink Raimund",
+      "ort": "Riefensberg",
+      "postleitzahl": "6943",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Fink Herbert",
+      "ort": "Doren",
+      "postleitzahl": "6933",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Fink Oswald",
+      "ort": "Sulzberg",
+      "postleitzahl": "6934",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Fink Bernd",
+      "ort": "Sulzberg",
+      "postleitzahl": "6934",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Fitz Stefan",
+      "ort": "Lustenau",
+      "postleitzahl": "6890",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Schneider Renate und Reinhard",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Flatz Martin",
+      "ort": "Alberschwende",
+      "postleitzahl": "6861",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Flatz Josef",
+      "ort": "Hittisau",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Forster Elias",
+      "ort": "Sulzberg",
+      "postleitzahl": "6934",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.35e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Konzett, Berthold GesbR",
+      "ort": "Dalaas",
+      "postleitzahl": "6752",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Fröwis Johannes",
+      "ort": "Bezau",
+      "postleitzahl": "6870",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Fuchs Albrecht",
+      "ort": "Langenegg",
+      "postleitzahl": "6941",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Fuchs Florian",
+      "ort": "Lingenau",
+      "postleitzahl": "6951",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Ganahl Gertrud, Ganahl Tobias",
+      "ort": "Bartholomäberg",
+      "postleitzahl": "6781",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Ganahl Rita und Reinhold",
+      "ort": "Bartholomäberg",
+      "postleitzahl": "6781",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Gantner, Kessler PG",
+      "ort": "Satteins",
+      "postleitzahl": "6822",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Gasser Werner",
+      "ort": "Reuthe",
+      "postleitzahl": "6870",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Hänsler Günther",
+      "ort": "Mellau",
+      "postleitzahl": "6881",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.35e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Gassner Katharina",
+      "ort": "Frastanz",
+      "postleitzahl": "6820",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Geiger Carmen und Martin",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Geiger Ernst",
+      "ort": "Nenzing",
+      "postleitzahl": "6820",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Geiger Theresa und Daniel",
+      "ort": "Au",
+      "postleitzahl": "6883",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Geser Andreas",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Giselbrecht Gebhard Johann",
+      "ort": "Doren",
+      "postleitzahl": "6933",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Gmeiner Wilfried",
+      "ort": "Tschagguns",
+      "postleitzahl": "6774",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Gmeiner Richard, Gmeiner Marlene",
+      "ort": "Riefensberg",
+      "postleitzahl": "6943",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Gorbach Martin",
+      "ort": "Thüringerberg",
+      "postleitzahl": "6721",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Gorbach Renate",
+      "ort": "Eichenberg",
+      "postleitzahl": "6911",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.235e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Greber Carina und Benjamin",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Greber Anton",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Greber Andreas",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Greber Anton",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Greber Andreas",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Greber Josef, Greber Stefan",
+      "ort": "Bezau",
+      "postleitzahl": "6870",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Greber Claudia und Ignaz",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Greber Artur",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bohle Monika",
+      "ort": "Bildstein",
+      "postleitzahl": "6858",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Maissen Stefan",
+      "ort": "Rankweil",
+      "postleitzahl": "6830",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Häusle Angelika",
+      "ort": "Satteins",
+      "postleitzahl": "6822",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bereuter Wolfgang",
+      "ort": "Sulzberg",
+      "postleitzahl": "6934",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Hagspiel Maria und Stefan",
+      "ort": "Sulzberg",
+      "postleitzahl": "6934",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Hammerer Leonhard",
+      "ort": "Zwischenwasser",
+      "postleitzahl": "6835",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Hartmann Rudolf",
+      "ort": "St. Gerold",
+      "postleitzahl": "6722",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Hartmann Martin",
+      "ort": "Zwischenwasser",
+      "postleitzahl": "6835",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Haselwanter Jakob",
+      "ort": "Bürserberg",
+      "postleitzahl": "6707",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bereuter Raphaela und Rainer",
+      "ort": "Möggers",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Heinzle Philipp",
+      "ort": "Laterns",
+      "postleitzahl": "6830",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Hirschbühl Stephan",
+      "ort": "Krumbach",
+      "postleitzahl": "6942",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.35e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Höfle Petra und Siegfried",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Hörfarter Violeta",
+      "ort": "Höchst",
+      "postleitzahl": "6973",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Holzer Johannes",
+      "ort": "Rankweil",
+      "postleitzahl": "6830",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Hopfner Manuel",
+      "ort": "Buch",
+      "postleitzahl": "6960",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Huber Andreas",
+      "ort": "Alberschwende",
+      "postleitzahl": "6861",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Huber Wolfgang",
+      "ort": "Lech",
+      "postleitzahl": "6764",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Huber Johannes",
+      "ort": "Sulzberg",
+      "postleitzahl": "6934",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Innauer Michael",
+      "ort": "Bezau",
+      "postleitzahl": "6870",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Jäger Hansjürgen",
+      "ort": "Hohenems",
+      "postleitzahl": "6845",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Jäger Bernhard",
+      "ort": "Innerbraz",
+      "postleitzahl": "6751",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Kaufmann Wilfried Bartle",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Kaufmann Marlies, Rossi Sabine",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Kaufmann Susanne",
+      "ort": "Rankweil",
+      "postleitzahl": "6830",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.75e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Kaufmann Andreas, Kaufmann Lorenz",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.8e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Kaufmann Rudolf",
+      "ort": "Bezau",
+      "postleitzahl": "6870",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Kennerknecht Martin",
+      "ort": "Langen bei Bregenz",
+      "postleitzahl": "6932",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Netzer Markus, Peter Helmut",
+      "ort": "Tschagguns",
+      "postleitzahl": "6774",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Klocker Markus",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Knapp Sebastian",
+      "ort": "Riefensberg",
+      "postleitzahl": "6943",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Schertler Pamela Emma",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Kohler Klaus",
+      "ort": "Lingenau",
+      "postleitzahl": "6951",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.205e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Konzett Gerald",
+      "ort": "Sonntag",
+      "postleitzahl": "6731",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Hubert Yvonne",
+      "ort": "Innerbraz",
+      "postleitzahl": "6751",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Kuster Klaus",
+      "ort": "Fußach",
+      "postleitzahl": "6972",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Malin Helga",
+      "ort": "Klaus",
+      "postleitzahl": "6833",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Lässer Stefan",
+      "ort": "Hard",
+      "postleitzahl": "6971",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Lässer Mathilde und Gebhard",
+      "ort": "Sulzberg",
+      "postleitzahl": "6934",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Lässer Elsa",
+      "ort": "Lingenau",
+      "postleitzahl": "6951",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Konzett Maria",
+      "ort": "Nenzing",
+      "postleitzahl": "6820",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Lang Gebhard",
+      "ort": "Eichenberg",
+      "postleitzahl": "6911",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Lingenhel Laura",
+      "ort": "Doren",
+      "postleitzahl": "6933",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Lingenhel Christian",
+      "ort": "Doren",
+      "postleitzahl": "6933",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Lingg Huberta",
+      "ort": "Schoppernau",
+      "postleitzahl": "6886",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Sohm Herbert",
+      "ort": "Altach",
+      "postleitzahl": "6844",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Schiechl Martin, Schiechl Michaela ",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Mätzler Bernhard",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Böhler Gertrud",
+      "ort": "Eichenberg",
+      "postleitzahl": "6911",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Nasahl Martin",
+      "ort": "Satteins",
+      "postleitzahl": "6822",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Malin Gerhard",
+      "ort": "Satteins",
+      "postleitzahl": "6822",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Mangeng Florian",
+      "ort": "Bartholomäberg",
+      "postleitzahl": "6781",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Marte Andrea und Walter",
+      "ort": "Altach",
+      "postleitzahl": "6844",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Saler Siegfried",
+      "ort": "Bartholomäberg",
+      "postleitzahl": "6781",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Mathis Karl, Mathis Thomas",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Matt Thomas",
+      "ort": "Hirschegg",
+      "postleitzahl": "6992",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Maurer Klaus",
+      "ort": "Sulzberg",
+      "postleitzahl": "6934",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Mathis Raphael",
+      "ort": "Göfis",
+      "postleitzahl": "6811",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Mennel Marisa und Klaus",
+      "ort": "Krumbach",
+      "postleitzahl": "6942",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Metzler Alfons",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Metzler Daniel",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.235e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Metzler Anna und Jonas",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Metzler Manfred",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.135e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Metzler Manfred",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.35e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Metzler Hubert",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Meusburger Franz",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bilgeri Annemarie",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Meusburger Georg",
+      "ort": "Bezau",
+      "postleitzahl": "6870",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Meusburger Thomas",
+      "ort": "Bezau",
+      "postleitzahl": "6870",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Felder Elisabeth und Jodok",
+      "ort": "Schnepfau",
+      "postleitzahl": "6882",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.85e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Meusburger Anna und Alois",
+      "ort": "Bezau",
+      "postleitzahl": "6870",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Meusburger Robert",
+      "ort": "Schnepfau",
+      "postleitzahl": "6882",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Heidegger Norbert",
+      "ort": "Möggers",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Moll Bernhard",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Moosbrugger Anton",
+      "ort": "Schoppernau",
+      "postleitzahl": "6886",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Moosbrugger Gebhard",
+      "ort": "Schnepfau",
+      "postleitzahl": "6882",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.85e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Moosbrugger Gebhard",
+      "ort": "Au",
+      "postleitzahl": "6883",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.45e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Moosbrugger Martin",
+      "ort": "Bizau",
+      "postleitzahl": "6874",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Moosbrugger Josef",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Moosbrugger Jürgen",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Moosbrugger Tobias",
+      "ort": "Mittelberg",
+      "postleitzahl": "6993",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bischof Ludwig",
+      "ort": "Mellau",
+      "postleitzahl": "6881",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Moosbrugger Martin, Moosbrugger Marianne",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Moosmann Christian",
+      "ort": "Mellau",
+      "postleitzahl": "6881",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Moosmann Christian",
+      "ort": "Au",
+      "postleitzahl": "6883",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Morscher Gerd",
+      "ort": "Klaus",
+      "postleitzahl": "6833",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Müller Fabian",
+      "ort": "Nenzing",
+      "postleitzahl": "6710",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Müller Renato, Müller Engelbert",
+      "ort": "Blons",
+      "postleitzahl": "6723",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Muther Herwig",
+      "ort": "Bludenz",
+      "postleitzahl": "6700",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Natter Thomas",
+      "ort": "Langen bei Bregenz",
+      "postleitzahl": "6932",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Natter Richard",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Adelgoss Veronika und Nenning Klemens",
+      "ort": "Hittisau",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Nessler Manfred, Nessler Anja, Nessler Simon",
+      "ort": "Dalaas",
+      "postleitzahl": "6752",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Neuhauser Annemarie",
+      "ort": "Frastanz",
+      "postleitzahl": "6820",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Nigsch Christoph",
+      "ort": "Fontanella",
+      "postleitzahl": "6733",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Nigsch Kurt",
+      "ort": "Übersaxen",
+      "postleitzahl": "6834",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Nigsch Markus",
+      "ort": "Sonntag",
+      "postleitzahl": "6731",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Nussbaumer Gerd",
+      "ort": "Langenegg",
+      "postleitzahl": "6941",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Nussbaumer Markus",
+      "ort": "Lingenau",
+      "postleitzahl": "6951",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Nussbaumer Martha",
+      "ort": "Langenegg",
+      "postleitzahl": "6941",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Nussbaumer Martin",
+      "ort": "Lingenau",
+      "postleitzahl": "6951",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Österle Martin",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Pfanner Theresia",
+      "ort": "Lochau",
+      "postleitzahl": "6911",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Rädler Martin",
+      "ort": "Eichenberg",
+      "postleitzahl": "6911",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Rädler Alexander",
+      "ort": "Möggers",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Schelling Reinhard",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.35e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Rauch Hubert",
+      "ort": "Dünserberg",
+      "postleitzahl": "6822",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Riedmann Günter Johann",
+      "ort": "Lustenau",
+      "postleitzahl": "6890",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.285e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Rottmaier Armin",
+      "ort": "Hohenweiler",
+      "postleitzahl": "6914",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Rützler Hermann",
+      "ort": "Au",
+      "postleitzahl": "6883",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.85e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Rusch Christoph",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Sandholzer Reinhold",
+      "ort": "Mäder",
+      "postleitzahl": "6841",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Schedler Michael",
+      "ort": "Alberschwende",
+      "postleitzahl": "6861",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Schelling Johannes",
+      "ort": "Lingenau",
+      "postleitzahl": "6951",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Schlachter Johannes",
+      "ort": "Lochau",
+      "postleitzahl": "6911",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Schneider Sepp",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Schneider Hans",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Schneider Daniel, Schneider Tobias",
+      "ort": "Möggers",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Schwärzler Klaus",
+      "ort": "Langenegg",
+      "postleitzahl": "6941",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Schwärzler Stephan Peter Anton",
+      "ort": "Lingenau",
+      "postleitzahl": "6951",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Schwarz Markus",
+      "ort": "Lingenau",
+      "postleitzahl": "6951",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.135e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Schwarzmann Kilian",
+      "ort": "Raggal",
+      "postleitzahl": "6741",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Schwendinger Johannes ",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Fontain Rosemarie",
+      "ort": "Riezlern",
+      "postleitzahl": "6991",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Sieber Tanja und Jakob",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Sieber Margit und Lothar",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Simma Andreas",
+      "ort": "Au",
+      "postleitzahl": "6883",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Gasser Laura",
+      "ort": "Mellau",
+      "postleitzahl": "6881",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Sinz Julia und Walter",
+      "ort": "Riefensberg",
+      "postleitzahl": "6943",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Sinz Ulrike und Paul",
+      "ort": "Langen bei Bregenz",
+      "postleitzahl": "6932",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Sinz Elias",
+      "ort": "Doren",
+      "postleitzahl": "6933",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Sohm Harald",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Freuis Georg",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Sparr Franz Anton",
+      "ort": "Raggal",
+      "postleitzahl": "6741",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Spiegel Michael",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Spiegel Harald",
+      "ort": "Rankweil",
+      "postleitzahl": "6830",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Spiegel Martin",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Stadelmann Peter",
+      "ort": "Sulzberg",
+      "postleitzahl": "6934",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Fetz Tobias",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Stark Eduard",
+      "ort": "Fontanella",
+      "postleitzahl": "6733",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Staudacher Friedrich ",
+      "ort": "Bildstein",
+      "postleitzahl": "6858",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Stöckler Sophie und Florian",
+      "ort": "Lingenau",
+      "postleitzahl": "6951",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Stöckler Anton",
+      "ort": "Lingenau",
+      "postleitzahl": "6951",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Sutterlüti Wolfgang",
+      "ort": "Hittisau",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Sutterlüty Kaspar",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Sutterlüty Gerold",
+      "ort": "Alberschwende",
+      "postleitzahl": "6861",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Sutterlüty Thomas, Lerchenmüller Erika",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Gmeiner Peter",
+      "ort": "Langenegg",
+      "postleitzahl": "6941",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bereuter Albert",
+      "ort": "Sibratsgfäll",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.75e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Thurnher Ulrike und Martin",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Troy Robert",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Türtscher Elmar",
+      "ort": "Höchst",
+      "postleitzahl": "6973",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Vögel Martin",
+      "ort": "Langenegg",
+      "postleitzahl": "6941",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.35e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Vögel Peter",
+      "ort": "Hittisau",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Vögel Dietmar",
+      "ort": "Sulzberg",
+      "postleitzahl": "6934",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Vonbrül Magnus",
+      "ort": "Röns",
+      "postleitzahl": "6822",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Wachter Roswitha",
+      "ort": "Bartholomäberg",
+      "postleitzahl": "6781",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Wachter Christian Ludwig",
+      "ort": "Gaschurn",
+      "postleitzahl": "6793",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Waldner Rosanella",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Walter Gabriele und Stefan",
+      "ort": "Thüringen",
+      "postleitzahl": "6712",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Waltner Bernhard",
+      "ort": "Hittisau",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.285e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Wilhelm Cornelia",
+      "ort": "Frastanz",
+      "postleitzahl": "6820",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Willam Andreas ",
+      "ort": "Alberschwende",
+      "postleitzahl": "6861",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Willam Erwin",
+      "ort": "Krumbach",
+      "postleitzahl": "6942",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Wirth Christof",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Rüdisser Silvia und Thomas",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Wucher Florian",
+      "ort": "Möggers",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Zeh Ignaz",
+      "ort": "Möggers",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Zimmermann Manfred",
+      "ort": "Göfis",
+      "postleitzahl": "6811",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Zündel Gudrun",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Zumtobel Marina und Philipp",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bechter Gallus",
+      "ort": "Hittisau",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bruggmüller Nikolaus",
+      "ort": "Gaschurn",
+      "postleitzahl": "6793",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.45e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Fechtig Josef Anton",
+      "ort": "Bizau",
+      "postleitzahl": "6874",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Rohner Marco",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Held Josef",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Fenkart Norbert",
+      "ort": "Hohenems",
+      "postleitzahl": "6845",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Mathies Lorenz",
+      "ort": "Bartholomäberg",
+      "postleitzahl": "6781",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Schneider Christof",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Fink Bernhard",
+      "ort": "Riefensberg",
+      "postleitzahl": "6943",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.35e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Nenning Herbert",
+      "ort": "Hittisau",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.35e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Stubenruss Andreas, Brunner Monika",
+      "ort": "Dalaas",
+      "postleitzahl": "6752",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Stöckler Anna Katharina und Josef Peter",
+      "ort": "Sulzberg",
+      "postleitzahl": "6934",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Kopf Stephan",
+      "ort": "Mäder",
+      "postleitzahl": "6841",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.135e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Metzler Anton",
+      "ort": "Alberschwende",
+      "postleitzahl": "6861",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Rüf Anita und Florian",
+      "ort": "Bizau",
+      "postleitzahl": "6874",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Steurer Josef",
+      "ort": "Riefensberg",
+      "postleitzahl": "6943",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Steurer Werner",
+      "ort": "Hittisau",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.85e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Moosbrugger Josef",
+      "ort": "Sibratsgfäll",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Köb Isabella und Stefan",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Enzenhofer Lukas Kevin",
+      "ort": "Rankweil",
+      "postleitzahl": "6830",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Pfeiffer Martin",
+      "ort": "Lauterach",
+      "postleitzahl": "6923",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bär Michael",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.35e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Jäger Simone und Simon Petrus",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Steurer Andrea",
+      "ort": "Buch",
+      "postleitzahl": "6960",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Enzenhofer Lukas Kevin",
+      "ort": "Rankweil",
+      "postleitzahl": "6830",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Pfeiffer Martin",
+      "ort": "Lauterach",
+      "postleitzahl": "6923",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4e3"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Bär Michael",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.35e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Jäger Simone und Simon Petrus",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Beiträge für Ländle Vollmilchkälber",
+      "empfänger": "Steurer Andrea",
+      "ort": "Buch",
+      "postleitzahl": "6960",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e2"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Marktgemeinde Wolfurt ",
+      "ort": "Wolfurt",
+      "postleitzahl": "6922",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.22128209e6"
+    },
+    {
+      "art": "Förderung der allgemeinen Erwachsenenbildung",
+      "empfänger": "Verband der  Vorarlberger Volkshochschulen",
+      "ort": "Götzis",
+      "postleitzahl": "6840",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3715429e5"
+    },
+    {
+      "art": "Förderung der allgemeinen Erwachsenenbildung",
+      "empfänger": "Bildungs- und Seminarhaus Im Kloster Bezau Kolpinghaus",
+      "ort": "Bezau",
+      "postleitzahl": "6870",
+      "auszahlungsdatum": "2026-09-18 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2525e4"
+    },
+    {
+      "art": "Förderung Musik",
+      "empfänger": "Symphonieorchester Vorarlberg",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e6"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Stadt Dornbirn ",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6314939e6"
+    },
+    {
+      "art": "Entwicklungszusammenarbeit",
+      "empfänger": "Vindex - Schutz und Asyl I Verein zur Förderung, Unterstützung und Integration von Konventionsflüchtlingen, asylsuchenden Menschen und Katastrophenopfern in Österreich und weltweit",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1091e5"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Gemeinde Mäder ",
+      "ort": "Mäder",
+      "postleitzahl": "6841",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.7772632e5"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Kinderbetreuung Kleiner Spatz ",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5657667e5"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Kindergruppen Ringareia Hohenems ",
+      "ort": "Hohenems",
+      "postleitzahl": "6845",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3890695e5"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr Andexlinger Alfred",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e3"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr. Schauer Stefan",
+      "ort": "Thüringen",
+      "postleitzahl": "6712",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.12e3"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr Schlosser Bernhard",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.12e3"
+    },
+    {
+      "art": "Investitionsbeiträge im Pflichtschulbereich für den weiteren Ausbau ganztägiger Schulformen",
+      "empfänger": "Marktgemeinde Bezau",
+      "ort": "Bezau",
+      "postleitzahl": "6870",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.56328e5"
+    },
+    {
+      "art": "Investitionsbeiträge im Pflichtschulbereich für den weiteren Ausbau ganztägiger Schulformen",
+      "empfänger": "Gemeinde Bizau",
+      "ort": "Bizau",
+      "postleitzahl": "6874",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4849e4"
+    },
+    {
+      "art": "Investitionsbeiträge im Pflichtschulbereich für den weiteren Ausbau ganztägiger Schulformen",
+      "empfänger": "Stadt Bludenz",
+      "ort": "Bludenz",
+      "postleitzahl": "6700",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.106396e6"
+    },
+    {
+      "art": "Investitionsbeiträge im Pflichtschulbereich für den weiteren Ausbau ganztägiger Schulformen",
+      "empfänger": "Gemeinde Göfis",
+      "ort": "Göfis",
+      "postleitzahl": "6811",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4604e4"
+    },
+    {
+      "art": "Investitionsbeiträge im Pflichtschulbereich für den weiteren Ausbau ganztägiger Schulformen",
+      "empfänger": "Stadt Hohenems",
+      "ort": "Hohenems",
+      "postleitzahl": "6845",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.152e3"
+    },
+    {
+      "art": "Investitionsbeiträge im Pflichtschulbereich für den weiteren Ausbau ganztägiger Schulformen",
+      "empfänger": "Marktgemeinde Schruns",
+      "ort": "Schruns",
+      "postleitzahl": "6780",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3399e4"
+    },
+    {
+      "art": "Investitionsbeiträge im Pflichtschulbereich für den weiteren Ausbau ganztägiger Schulformen",
+      "empfänger": "Stadt Hohenems",
+      "ort": "Hohenems",
+      "postleitzahl": "6845",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.381e3"
+    },
+    {
+      "art": "Investitionsbeiträge im Pflichtschulbereich für den weiteren Ausbau ganztägiger Schulformen",
+      "empfänger": "Stadt Hohenems",
+      "ort": "Hohenems",
+      "postleitzahl": "6845",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.642e3"
+    },
+    {
+      "art": "Investitionsbeiträge im Pflichtschulbereich für den weiteren Ausbau ganztägiger Schulformen",
+      "empfänger": "Stadt Hohenems",
+      "ort": "Hohenems",
+      "postleitzahl": "6845",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1679e4"
+    },
+    {
+      "art": "Investitionsbeiträge im Pflichtschulbereich für den weiteren Ausbau ganztägiger Schulformen",
+      "empfänger": "Gemeinde Schwarzenberg",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3657e5"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr Dietz Wolfgang",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.54e3"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr Mathis Dorit",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e2"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr. Linder Verena",
+      "ort": "Frastanz",
+      "postleitzahl": "6820",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.12e3"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr. Jäger Elisabeth",
+      "ort": "Lochau",
+      "postleitzahl": "6911",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e2"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr Wolf Julian Laurin Lothar",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-17 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e2"
+    },
+    {
+      "art": "Förderung von Sportveranstaltungen",
+      "empfänger": "Triathlonclub Dornbirn",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-16 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e3"
+    },
+    {
+      "art": "Sportabzeichen, Medaillen, Ehrenpreise u. Sportpublikationen",
+      "empfänger": "Zollsportverein Wolfurt ",
+      "ort": "Wolfurt",
+      "postleitzahl": "6922",
+      "auszahlungsdatum": "2026-09-16 00:00:00 +0000",
+      "auszahlungsbetrag": "0.93e2"
+    },
+    {
+      "art": "Beitr. f. Bewusstseinsbild. im Natur- und Landschaftssch.",
+      "empfänger": "Bundesrealgymnasium Dornbirn BG Dornbirn",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-16 00:00:00 +0000",
+      "auszahlungsbetrag": "0.9e3"
+    },
+    {
+      "art": "Beitr. zu Naturschutzmaßn. Ländliche Entwicklung (AMA)",
+      "empfänger": "Agrarmarkt Austria",
+      "ort": "Wien",
+      "postleitzahl": "1200",
+      "auszahlungsdatum": "2026-09-16 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4648539e5"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Hubert Feuerstein",
+      "ort": "Gaißau",
+      "postleitzahl": "6974",
+      "auszahlungsdatum": "2026-09-16 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Daria Alyssa Gasser",
+      "ort": "Lochau",
+      "postleitzahl": "6911",
+      "auszahlungsdatum": "2026-09-16 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Carmen Fröwis",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-16 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Heinz Franz Posch",
+      "ort": "Hard",
+      "postleitzahl": "6971",
+      "auszahlungsdatum": "2026-09-16 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Stefan Riedmann",
+      "ort": "Lustenau",
+      "postleitzahl": "6890",
+      "auszahlungsdatum": "2026-09-16 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Hubert Jochum",
+      "ort": "Mittelberg",
+      "postleitzahl": "6991",
+      "auszahlungsdatum": "2026-09-16 00:00:00 +0000",
+      "auszahlungsbetrag": "0.42e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Klaus Dieter Allgäuer",
+      "ort": "Tschagguns",
+      "postleitzahl": "6774",
+      "auszahlungsdatum": "2026-09-16 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Bruno Berlinger",
+      "ort": "St. Anton im Montafon",
+      "postleitzahl": "6771",
+      "auszahlungsdatum": "2026-09-16 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Lucas Felder",
+      "ort": "Höchst",
+      "postleitzahl": "6973",
+      "auszahlungsdatum": "2026-09-16 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Birgit Martina Galehr",
+      "ort": "Nüziders",
+      "postleitzahl": "6714",
+      "auszahlungsdatum": "2026-09-15 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Forschungsförderung Inatura",
+      "empfänger": "inatura Erlebnis Naturschau GmbH",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-15 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e5"
+    },
+    {
+      "art": "Förd.d.Mannschaftsspitzensport b.gesamtösterr. u.int.Bewerb.",
+      "empfänger": "Bocciaclub Hohenems",
+      "ort": "Hohenems",
+      "postleitzahl": "6845",
+      "auszahlungsdatum": "2026-09-15 00:00:00 +0000",
+      "auszahlungsbetrag": "0.63e3"
+    },
+    {
+      "art": "Förd.d.Mannschaftsspitzensport b.gesamtösterr. u.int.Bewerb.",
+      "empfänger": "Bocciaclub Galeb Lustenau",
+      "ort": "Lustenau",
+      "postleitzahl": "6890",
+      "auszahlungsdatum": "2026-09-15 00:00:00 +0000",
+      "auszahlungsbetrag": "0.42e3"
+    },
+    {
+      "art": "Förd.d.Mannschaftsspitzensport b.gesamtösterr. u.int.Bewerb.",
+      "empfänger": "Bahnengolfclub Bludenz",
+      "ort": "Bludenz",
+      "postleitzahl": "6700",
+      "auszahlungsdatum": "2026-09-15 00:00:00 +0000",
+      "auszahlungsbetrag": "0.133e4"
+    },
+    {
+      "art": "Förd.d.Mannschaftsspitzensport b.gesamtösterr. u.int.Bewerb.",
+      "empfänger": "Minigolfclub Feldkirch",
+      "ort": "Rankweil",
+      "postleitzahl": "6830",
+      "auszahlungsdatum": "2026-09-15 00:00:00 +0000",
+      "auszahlungsbetrag": "0.95e3"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Marktgemeinde Götzis ",
+      "ort": "Götzis",
+      "postleitzahl": "6840",
+      "auszahlungsdatum": "2026-09-15 00:00:00 +0000",
+      "auszahlungsbetrag": "0.26420293e6"
+    },
+    {
+      "art": "Beiträge an die Dbn. Messe zur Hallenbenutzung",
+      "empfänger": "Vlbg. Tennisverband",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-15 00:00:00 +0000",
+      "auszahlungsbetrag": "0.345614e5"
+    },
+    {
+      "art": "Entwicklungszusammenarbeit",
+      "empfänger": "Welthaus – Verein für entwicklungspolitische Zusammenarbeit kirchlicher Hilfswerke in der Diözese FK ",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-15 00:00:00 +0000",
+      "auszahlungsbetrag": "0.13e5"
+    },
+    {
+      "art": "Förd.d.Mannschaftsspitzensport b.gesamtösterr. u.int.Bewerb.",
+      "empfänger": "SC Schwarz Weiss Bregenz",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-15 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e5"
+    },
+    {
+      "art": "Humanitäre Hilfe",
+      "empfänger": "Chay Ya Austria ",
+      "ort": "Bizau",
+      "postleitzahl": "6874",
+      "auszahlungsdatum": "2026-09-15 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e5"
+    },
+    {
+      "art": "Arbeitsmarktförderung",
+      "empfänger": "arbeit plus - Soziale Unternehmen Vorarlberg",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-15 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4793261e5"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr. Steurer Daniel",
+      "ort": "Wolfurt",
+      "postleitzahl": "6922",
+      "auszahlungsdatum": "2026-09-15 00:00:00 +0000",
+      "auszahlungsbetrag": "0.12e3"
+    },
+    {
+      "art": "Beiträge an Gemeinden zur Errichtung/Sanierung von Sportstätten",
+      "empfänger": "Lustenau Marktgemeindeamt",
+      "ort": "Lustenau",
+      "postleitzahl": "6890",
+      "auszahlungsdatum": "2026-09-15 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e5"
+    },
+    {
+      "art": "Beiträge an Gemeinden zur Errichtung/Sanierung von Sportstätten",
+      "empfänger": "Lustenau Marktgemeindeamt",
+      "ort": "Lustenau",
+      "postleitzahl": "6890",
+      "auszahlungsdatum": "2026-09-15 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4e5"
+    },
+    {
+      "art": "Einzelspitzensportförderung",
+      "empfänger": "Lisbeth Mag. Kristoferitsch",
+      "ort": "Bludenz",
+      "postleitzahl": "6700",
+      "auszahlungsdatum": "2026-09-15 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3267e3"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr. Walter Tobias",
+      "ort": "Schruns",
+      "postleitzahl": "6780",
+      "auszahlungsdatum": "2026-09-15 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e2"
+    },
+    {
+      "art": "Förderung Darstellende Kunst",
+      "empfänger": "Bregenzer Festspiele GmbH",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-15 00:00:00 +0000",
+      "auszahlungsbetrag": "0.12019e6"
+    },
+    {
+      "art": "kostenreduzierte Rechtsberatung für Frauen",
+      "empfänger": "Einsle Anita Maria Dr.",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-14 00:00:02 +0000",
+      "auszahlungsbetrag": "0.715e2"
+    },
     {
       "art": "Betriebskostenförderung für Abwasserbeseitigungsanlagen",
       "empfänger": "Gemeinde Alberschwende",
