@@ -1,7 +1,1647 @@
 {
-  "downloaded": "2026-09-28T13:25:50.913481",
-  "total": 66362,
+  "downloaded": "2026-10-05T14:08:35.138655",
+  "total": 66567,
   "data": [
+    {
+      "art": "Förderung Kulturinitiativen, Zentren",
+      "empfänger": "SPIELBODEN Kulturveranstaltungs GmbH",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-05 00:00:00 +0000",
+      "auszahlungsbetrag": "0.53e5"
+    },
+    {
+      "art": "Förderung von raumplanerischen Aktivitäten auf Grundlage der AFRL",
+      "empfänger": "Gemeinde Fußach",
+      "ort": "Fußach",
+      "postleitzahl": "6972",
+      "auszahlungsdatum": "2026-10-05 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e4"
+    },
+    {
+      "art": "Förderung von raumplanerischen Aktivitäten auf Grundlage der AFRL",
+      "empfänger": "Landeshauptstadt Bregenz",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-10-05 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e4"
+    },
+    {
+      "art": "Förderung von raumplanerischen Aktivitäten auf Grundlage der AFRL",
+      "empfänger": "Marktgemeinde Hard",
+      "ort": "Hard",
+      "postleitzahl": "6971",
+      "auszahlungsdatum": "2026-10-05 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e4"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Waldorfkindergarten und Spielgruppe Rheintal ",
+      "ort": "Koblach",
+      "postleitzahl": "6842",
+      "auszahlungsdatum": "2026-10-04 00:00:00 +0000",
+      "auszahlungsbetrag": "0.387057e4"
+    },
+    {
+      "art": "Förderung der Betreuung von Kindern im letzten Kindergartenjahr",
+      "empfänger": "Canopus, Verein zur Förderung der Waldorfpädagogik ",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-10-02 00:00:41 +0000",
+      "auszahlungsbetrag": "0.36e4"
+    },
+    {
+      "art": "Einmalige Förderung bei Mehrlingsgeburten des Landes Vorarlberg",
+      "empfänger": "Laura Kalajdzic",
+      "ort": "Schwarzach",
+      "postleitzahl": "6858",
+      "auszahlungsdatum": "2026-10-02 00:00:05 +0000",
+      "auszahlungsbetrag": "0.8e3"
+    },
+    {
+      "art": "Förderung Darstellende Kunst",
+      "empfänger": "netzwerkTanz Vorarlberg - Verein für zeitgenössische Bewegungskunst",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e5"
+    },
+    {
+      "art": "Jahres- und Halbjahresstipendien an prof. Kunstschaffende",
+      "empfänger": "Melanie Ebenhoch",
+      "ort": "Wien",
+      "postleitzahl": "1180",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Jahres- und Halbjahresstipendien an prof. Kunstschaffende",
+      "empfänger": "Tobias Vedovelli",
+      "ort": "Wien",
+      "postleitzahl": "1090",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Förderung Bildende Kunst - Foto",
+      "empfänger": "Teuta Jonuzi",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Förderung von Jugendorganisationen",
+      "empfänger": "aha - Jugendinformationszentrum Vorarlberg ",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.12008e6"
+    },
+    {
+      "art": "Förderung von Jugendorganisationen",
+      "empfänger": "aha - Jugendinformationszentrum Vorarlberg ",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1488675e5"
+    },
+    {
+      "art": "Jugendprojektförderungen",
+      "empfänger": "aha - Jugendinformationszentrum Vorarlberg ",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.112206e6"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Gemeinde Sulz ",
+      "ort": "Sulz",
+      "postleitzahl": "6832",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.10856074e6"
+    },
+    {
+      "art": "Familienbezogene Projektförderung",
+      "empfänger": "aha - Jugendinformationszentrum Vorarlberg ",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.724985e5"
+    },
+    {
+      "art": "Förderung Bildende Kunst - Foto",
+      "empfänger": "Bernhard Buhmann",
+      "ort": "Wien",
+      "postleitzahl": "1140",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Gemeinde Riefensberg ",
+      "ort": "Riefensberg",
+      "postleitzahl": "6943",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.900996e4"
+    },
+    {
+      "art": "Förderung f. Jungunternehmer",
+      "empfänger": "Keckeis Marcel",
+      "ort": "Röthis",
+      "postleitzahl": "6832",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.404e4"
+    },
+    {
+      "art": "Chancen im Sport für Kinder und Jugendliche",
+      "empfänger": "PRO-EVENT Cycling Sports GmbH",
+      "ort": "Rankweil",
+      "postleitzahl": "6830",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e4"
+    },
+    {
+      "art": "Soziale Staffelung der Betreuungstarife in elementarpädagogischen Einrichtungen",
+      "empfänger": "Kinderkrippe SANDbürgle ",
+      "ort": "Lustenau",
+      "postleitzahl": "6890",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4645e3"
+    },
+    {
+      "art": "Soziale Staffelung der Betreuungstarife in elementarpädagogischen Einrichtungen",
+      "empfänger": "Kinderkrippe SANDbürgle ",
+      "ort": "Lustenau",
+      "postleitzahl": "6890",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e2"
+    },
+    {
+      "art": "Chancen im Sport für Kinder und Jugendliche",
+      "empfänger": "Interessengemeinschaft Eltern-Kind-Turnen/Kleinkinderturnen",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.75e3"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Gemeinde St. Gallenkirch ",
+      "ort": "St. Gallenkirch",
+      "postleitzahl": "6791",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2836211e5"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Gemeinde Thüringen ",
+      "ort": "Thüringen",
+      "postleitzahl": "6712",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3189024e5"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Gemeinde Thüringen ",
+      "ort": "Thüringen",
+      "postleitzahl": "6712",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3378693e5"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Gemeinde Bürserberg ",
+      "ort": "Bürserberg",
+      "postleitzahl": "6707",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1171336e5"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Gemeinde Dalaas ",
+      "ort": "Dalaas",
+      "postleitzahl": "6752",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3420232e5"
+    },
+    {
+      "art": "Soziale Staffelung der Betreuungstarife in elementarpädagogischen Einrichtungen",
+      "empfänger": "Kinderbetreuung Kleiner Spatz ",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4929e4"
+    },
+    {
+      "art": "Soziale Staffelung der Betreuungstarife in elementarpädagogischen Einrichtungen",
+      "empfänger": "Kinderbetreuung Kleiner Spatz ",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.16e3"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Pfarre Herz Mariä Bludenz ",
+      "ort": "Bludenz",
+      "postleitzahl": "6700",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.256176e5"
+    },
+    {
+      "art": "Förderung von Tageseltern und Kindernestern",
+      "empfänger": "Kinderbetreuung Vorarlberg gGmbH ",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3563178e5"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Gemeinde Brand ",
+      "ort": "Brand",
+      "postleitzahl": "6708",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1448068e5"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Gemeinde Weiler ",
+      "ort": "Weiler",
+      "postleitzahl": "6837",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5297435e5"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Gemeinde Thüringerberg ",
+      "ort": "Thüringerberg",
+      "postleitzahl": "6721",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1449338e5"
+    },
+    {
+      "art": "Förderung der allgemeinen Erwachsenenbildung",
+      "empfänger": "Gemeinde Kennelbach",
+      "ort": "Kennelbach",
+      "postleitzahl": "6921",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.34708e3"
+    },
+    {
+      "art": "Förderung der allgemeinen Erwachsenenbildung",
+      "empfänger": "Gemeinde Kennelbach",
+      "ort": "Kennelbach",
+      "postleitzahl": "6921",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.43003e3"
+    },
+    {
+      "art": "Soziale Staffelung der Betreuungstarife in elementarpädagogischen Einrichtungen",
+      "empfänger": "Kinderstube Höchst ",
+      "ort": "Höchst",
+      "postleitzahl": "6973",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4e2"
+    },
+    {
+      "art": "Soziale Staffelung der Betreuungstarife in elementarpädagogischen Einrichtungen",
+      "empfänger": "Kinderstube Höchst ",
+      "ort": "Höchst",
+      "postleitzahl": "6973",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.41375e3"
+    },
+    {
+      "art": "Soziale Staffelung der Betreuungstarife in elementarpädagogischen Einrichtungen",
+      "empfänger": "Stadt Dornbirn ",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.48e3"
+    },
+    {
+      "art": "Soziale Staffelung der Betreuungstarife in elementarpädagogischen Einrichtungen",
+      "empfänger": "Stadt Dornbirn ",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1779e4"
+    },
+    {
+      "art": "Soziale Staffelung der Betreuungstarife in elementarpädagogischen Einrichtungen",
+      "empfänger": "Kinderbetreuung Schöfle",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e2"
+    },
+    {
+      "art": "Soziale Staffelung der Betreuungstarife in elementarpädagogischen Einrichtungen",
+      "empfänger": "Kinderbetreuung Schöfle",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.95704e3"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Schulträgerverein Marienberg in Bregenz ",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.20267e5"
+    },
+    {
+      "art": "Energieeffizienz und Erneuerbare in KMU",
+      "empfänger": "Kommunalkredit Public Consulting GmbH",
+      "ort": "Wien",
+      "postleitzahl": "1090",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3352e5"
+    },
+    {
+      "art": "Soziale Staffelung der Betreuungstarife in elementarpädagogischen Einrichtungen",
+      "empfänger": "MediKids Feldkirch ",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.232e3"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "ICH bin ICH ",
+      "ort": "Lustenau",
+      "postleitzahl": "6890",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2055589e5"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Spielgruppe Rohrbach ",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2047885e5"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Kinderbetreuungsverein Paul`s Garten",
+      "ort": "Lustenau",
+      "postleitzahl": "6890",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1343667e5"
+    },
+    {
+      "art": "Förderung Kulturinitiativen, Zentren",
+      "empfänger": "Marion Bettina Kotula-Studer",
+      "ort": "Wolfurt",
+      "postleitzahl": "6922",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2705e4"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Gemeinde Mellau ",
+      "ort": "Mellau",
+      "postleitzahl": "6881",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1640199e5"
+    },
+    {
+      "art": "Soziale Staffelung der Betreuungstarife in elementarpädagogischen Einrichtungen",
+      "empfänger": "Marktgemeinde Götzis ",
+      "ort": "Götzis",
+      "postleitzahl": "6840",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.19925e4"
+    },
+    {
+      "art": "Soziale Staffelung der Betreuungstarife in elementarpädagogischen Einrichtungen",
+      "empfänger": "Marktgemeinde Götzis ",
+      "ort": "Götzis",
+      "postleitzahl": "6840",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.36e3"
+    },
+    {
+      "art": "Soziale Staffelung der Betreuungstarife in elementarpädagogischen Einrichtungen",
+      "empfänger": "Aufblüherei - Naturpädagogik für Kinder und Erwachsene",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3669e2"
+    },
+    {
+      "art": "Freiwilliges Soziales Jahr in der Elementarpädagogik (SBOV)",
+      "empfänger": "SBOV Soziale Berufsorientierung Vorarlberg gemeinnützige GmbH ",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.16496e5"
+    },
+    {
+      "art": "Förderung f. Jungunternehmer",
+      "empfänger": "A+M Bau GmbH",
+      "ort": "Lochau",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.432e4"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Marktgemeinde Rankweil ",
+      "ort": "Rankweil",
+      "postleitzahl": "6830",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.28731637e6"
+    },
+    {
+      "art": "Förderung der allgemeinen Erwachsenenbildung",
+      "empfänger": "Stadt Feldkirch",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.42944e3"
+    },
+    {
+      "art": "Förderung der allgemeinen Erwachsenenbildung",
+      "empfänger": "Stadt Feldkirch",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.41488e3"
+    },
+    {
+      "art": "Soziale Staffelung der Betreuungstarife in elementarpädagogischen Einrichtungen",
+      "empfänger": "Gemeinde Sulz ",
+      "ort": "Sulz",
+      "postleitzahl": "6832",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.304458e4"
+    },
+    {
+      "art": "Soziale Staffelung der Betreuungstarife in elementarpädagogischen Einrichtungen",
+      "empfänger": "Gemeinde Sulz ",
+      "ort": "Sulz",
+      "postleitzahl": "6832",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.36e3"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Kinderbetreuung Löwenzahn & Seidenpfote - Verein Zukunftswerkstätte HERON",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1723918e5"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Kinderbetreuung Schöfle",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2646696e5"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Kinderwelt Lustenau ",
+      "ort": "Lustenau",
+      "postleitzahl": "6890",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1538685e5"
+    },
+    {
+      "art": "Unterstützung für die Viehhaltung",
+      "empfänger": "Baldauf Katharina",
+      "ort": "Hittisau",
+      "postleitzahl": "6952",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.13497e3"
+    },
+    {
+      "art": "Unterstützung für die Viehhaltung",
+      "empfänger": "Bechter Rudolf, Bechter Manuel",
+      "ort": "Krumbach",
+      "postleitzahl": "6942",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.443e2"
+    },
+    {
+      "art": "Unterstützung für die Viehhaltung",
+      "empfänger": "Frick Karlheinz",
+      "ort": "Sulz",
+      "postleitzahl": "6832",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.37004e3"
+    },
+    {
+      "art": "Unterstützung für die Viehhaltung",
+      "empfänger": "Madlener Claudia",
+      "ort": "Schoppernau",
+      "postleitzahl": "6886",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.46171e3"
+    },
+    {
+      "art": "Zahlung für Umweltleistungen",
+      "empfänger": "Frick Karlheinz",
+      "ort": "Sulz",
+      "postleitzahl": "6832",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.147598e4"
+    },
+    {
+      "art": "Zahlung für Umweltleistungen",
+      "empfänger": "Madlener Claudia",
+      "ort": "Schoppernau",
+      "postleitzahl": "6886",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.62503e3"
+    },
+    {
+      "art": "Förd.d.Mannschaftsspitzensport b.gesamtösterr. u.int.Bewerb.",
+      "empfänger": "Peartrees Dornbirn",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.154e4"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Olympiazentrum Vorarlberg GmbH ",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1320004e5"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "MedEms",
+      "ort": "Hohenems",
+      "postleitzahl": "6845",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e2"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr Groß Herbert",
+      "ort": "Lauterach",
+      "postleitzahl": "6923",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e2"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr. Dosser Carolin",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.36e3"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr. Kraxner Martina",
+      "ort": "Hohenems",
+      "postleitzahl": "6845",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.24e3"
+    },
+    {
+      "art": "Förd.d.Mannschaftsspitzensport b.gesamtösterr. u.int.Bewerb.",
+      "empfänger": "Golfclub Bludenz-Braz",
+      "ort": "Braz",
+      "postleitzahl": "6751",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.16e4"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr Helbok Christian",
+      "ort": "Krumbach",
+      "postleitzahl": "6942",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.18e3"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr Plötzeneder Rosemarie",
+      "ort": "Schwarzach",
+      "postleitzahl": "6858",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.18e3"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Millenium Park ",
+      "ort": "Lustenau",
+      "postleitzahl": "6890",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1640251e5"
+    },
+    {
+      "art": "Soziale Staffelung der Betreuungstarife in elementarpädagogischen Einrichtungen",
+      "empfänger": "MediKids Feldkirch ",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e2"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Josef Alois Feuerstein",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Förderung Bildende Kunst - Foto",
+      "empfänger": "Viktoria Tremmel",
+      "ort": "Wien",
+      "postleitzahl": "1090",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Beate Schnetzer",
+      "ort": "Altach",
+      "postleitzahl": "6844",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Simon Wehinger",
+      "ort": "Nüziders",
+      "postleitzahl": "6714",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Klaus Vamberszky",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e4"
+    },
+    {
+      "art": "Förderung Bildende Kunst - Foto",
+      "empfänger": "Sarah Rinderer",
+      "ort": "Wien",
+      "postleitzahl": "1040",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.14308e3"
+    },
+    {
+      "art": "Jahres- und Halbjahresstipendien an prof. Kunstschaffende",
+      "empfänger": "Christine Lederer",
+      "ort": "Bludenz",
+      "postleitzahl": "6700",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Herbert Bargehr",
+      "ort": "Silbertal",
+      "postleitzahl": "6782",
+      "auszahlungsdatum": "2026-10-02 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e4"
+    },
+    {
+      "art": "kostenreduzierte Rechtsberatung für Frauen",
+      "empfänger": "Breinbauer Birgitt Dr.",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-01 00:00:04 +0000",
+      "auszahlungsbetrag": "0.715e2"
+    },
+    {
+      "art": "kostenreduzierte Rechtsberatung für Frauen",
+      "empfänger": "Breinbauer Birgitt Dr.",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-01 00:00:02 +0000",
+      "auszahlungsbetrag": "0.715e2"
+    },
+    {
+      "art": "kostenreduzierte Rechtsberatung für Frauen",
+      "empfänger": "Breinbauer Birgitt Dr.",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-01 00:00:02 +0000",
+      "auszahlungsbetrag": "0.715e2"
+    },
+    {
+      "art": "kostenreduzierte Rechtsberatung für Frauen",
+      "empfänger": "Breinbauer Birgitt Dr.",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-01 00:00:02 +0000",
+      "auszahlungsbetrag": "0.715e2"
+    },
+    {
+      "art": "Förderung Kulturinitiativen, Zentren",
+      "empfänger": "Bregenzer Festspiele GmbH",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4158e5"
+    },
+    {
+      "art": "Beiträge an die Naturwacht",
+      "empfänger": "Naturwacht Vorarlberg",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2025e5"
+    },
+    {
+      "art": "Förderung Bildende Kunst - Foto",
+      "empfänger": "Matthias Bildstein",
+      "ort": "Wien",
+      "postleitzahl": "1020",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Förderung Bildende Kunst - Foto",
+      "empfänger": "Nina Teresa Loacker",
+      "ort": "Götzis",
+      "postleitzahl": "6840",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Förderung Bildende Kunst - Foto",
+      "empfänger": "Linus Barta",
+      "ort": "Wien",
+      "postleitzahl": "1080",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Förderung Baukulturelles Erbe - Denkmalpflege",
+      "empfänger": "Urs Mathis",
+      "ort": "Hohenems",
+      "postleitzahl": "6845",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.14e4"
+    },
+    {
+      "art": "Förderung Baukulturelles Erbe - Denkmalpflege",
+      "empfänger": "Pfarrpfründe zu Maria Himmelfahrt in Brand",
+      "ort": "Brand",
+      "postleitzahl": "6708",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.16e4"
+    },
+    {
+      "art": "Beiträge für das ländliche Wegenetz (Mountainbike)",
+      "empfänger": "Gemeinde Viktorsberg",
+      "ort": "Viktorsberg",
+      "postleitzahl": "6836",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.85533e3"
+    },
+    {
+      "art": "Großraubwild - Herdenschutz u. Entschädigungen an Landwirte",
+      "empfänger": "Muxel Thomas",
+      "ort": "Au",
+      "postleitzahl": "6883",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.12e3"
+    },
+    {
+      "art": "Beiträge für das ländliche Wegenetz (Modell Vorarlberg)",
+      "empfänger": "Gw.-Gen. Dünserberg-Hirt Hensler",
+      "ort": "Dünserberg",
+      "postleitzahl": "6822",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.135e4"
+    },
+    {
+      "art": "Beiträge für das ländliche Wegenetz (Modell Vorarlberg)",
+      "empfänger": "Str.-Gen. Lingenau-Hof-Hehl ",
+      "ort": "Lingenau",
+      "postleitzahl": "6951",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.301837e4"
+    },
+    {
+      "art": "Beiträge für das ländliche Wegenetz (Modell Vorarlberg)",
+      "empfänger": "Gw.-Gen. Schnepfau-Hirschauerberg",
+      "ort": "Mellau",
+      "postleitzahl": "6881",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.675e3"
+    },
+    {
+      "art": "Beiträge für das ländliche Wegenetz (Modell Vorarlberg)",
+      "empfänger": "Gw.-Gen. Silbertal-Pascha",
+      "ort": "Silbertal",
+      "postleitzahl": "6780",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.315e3"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Spielkiste-Schlins, Kinderbetreuungseinrichtung ",
+      "ort": "Schlins",
+      "postleitzahl": "6824",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3803134e5"
+    },
+    {
+      "art": "Förderung des Personals in elementarpädagogischen Einrichtungen",
+      "empfänger": "Schulträgerverein der Kreuzschwestern - Institut St. Josef ",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.115096e4"
+    },
+    {
+      "art": "Elementarschäden Private",
+      "empfänger": "Mager Martin ",
+      "ort": "Kennelbach",
+      "postleitzahl": "6921",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.218484e4"
+    },
+    {
+      "art": "Elementarschäden Private",
+      "empfänger": "Gunz Katrin",
+      "ort": "Bildstein",
+      "postleitzahl": "6858",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.162776e4"
+    },
+    {
+      "art": "Elementarschäden Private",
+      "empfänger": "Gemeinde Viktorsberg",
+      "ort": "Viktorsberg",
+      "postleitzahl": "6836",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.346158e4"
+    },
+    {
+      "art": "Beiträge für Investitionen ldw. Betriebe (Land)",
+      "empfänger": "Gassner Manfred",
+      "ort": "Raggal",
+      "postleitzahl": "6741",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.957229e4"
+    },
+    {
+      "art": "Beiträge für Investitionen ldw. Betriebe (Land)",
+      "empfänger": "Schwarzmann Benjamin",
+      "ort": "Raggal",
+      "postleitzahl": "6741",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.181438e4"
+    },
+    {
+      "art": "Beiträge für Investitionen ldw. Betriebe (Land)",
+      "empfänger": "Kronlechner Daniel",
+      "ort": "Nenzing",
+      "postleitzahl": "6820",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.496002e4"
+    },
+    {
+      "art": "Beiträge für Investitionen Alpen (Land)",
+      "empfänger": "Agrargem. Gunzmoos-Obermörzel",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3088224e5"
+    },
+    {
+      "art": "Beiträge für Investitionen Alpen (Land)",
+      "empfänger": "Heiseler Thomas",
+      "ort": "Sonntag",
+      "postleitzahl": "6731",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1413e5"
+    },
+    {
+      "art": "Beiträge für Investitionen Alpen (Land)",
+      "empfänger": "Agrargem. Alpgen. Rubach ",
+      "ort": "Langenegg",
+      "postleitzahl": "6941",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.800601e4"
+    },
+    {
+      "art": "Beiträge für Investitionen Alpen (Land)",
+      "empfänger": "Agrargem. Spora",
+      "ort": "Schruns",
+      "postleitzahl": "6780",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.904934e4"
+    },
+    {
+      "art": "Beiträge für das ländliche Wegenetz (Projekte Land)",
+      "empfänger": "Gw.-Gen. Andelsbuch-Wirth-Ach",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.14e5"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Alpe Altenhof zH Moosbrugger Josef",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.227025e4"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Greber Andreas",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.8532e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Sinz Roswitha und Christian",
+      "ort": "Doren",
+      "postleitzahl": "6933",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.54e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Greber Andreas",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5751e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Wachter Michael",
+      "ort": "Bürs",
+      "postleitzahl": "6706",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.639e3"
+    },
+    {
+      "art": "Hubschrauberbergungen",
+      "empfänger": "Würfl Konrad",
+      "ort": "Lech",
+      "postleitzahl": "6764",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.645e3"
+    },
+    {
+      "art": "Förderung Bildende Kunst - Foto",
+      "empfänger": "Anna Elisabeth Hämmerle",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e4"
+    },
+    {
+      "art": "Arbeitsmarktförderung",
+      "empfänger": "arbeit plus - Soziale Unternehmen Vorarlberg",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.228e5"
+    },
+    {
+      "art": "Förderung Baukulturelles Erbe - Denkmalpflege",
+      "empfänger": "Urs Mathis",
+      "ort": "Hohenems",
+      "postleitzahl": "6845",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.14e4"
+    },
+    {
+      "art": "Förderung Baukulturelles Erbe - Denkmalpflege",
+      "empfänger": "Pfarrpfründe zu Maria Himmelfahrt in Brand",
+      "ort": "Brand",
+      "postleitzahl": "6708",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.16e4"
+    },
+    {
+      "art": "Förderung Baukulturelles Erbe - Denkmalpflege",
+      "empfänger": "Pfarrkirche zum Hl. Jodok Schruns",
+      "ort": "Schruns",
+      "postleitzahl": "6780",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.32e3"
+    },
+    {
+      "art": "Jahres- und Halbjahresstipendien an prof. Kunstschaffende",
+      "empfänger": "Thomas Scheiderbauer",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Thomas Josef Mayer",
+      "ort": "Kennelbach",
+      "postleitzahl": "6921",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e4"
+    },
+    {
+      "art": "Förderung Bildende Kunst - Foto",
+      "empfänger": "Michael Salvadori",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Förderung Bildende Kunst - Foto",
+      "empfänger": "Nina Teresa Loacker",
+      "ort": "Götzis",
+      "postleitzahl": "6840",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Förderung Bildende Kunst - Foto",
+      "empfänger": "Linus Barta",
+      "ort": "Wien",
+      "postleitzahl": "1080",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Förderung Bildende Kunst - Foto",
+      "empfänger": "Evamaria Müller",
+      "ort": "Wien",
+      "postleitzahl": "1200",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.22e3"
+    },
+    {
+      "art": "Förderung Bildende Kunst - Foto",
+      "empfänger": "Mathias Garnitschnig",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Förderung Bildende Kunst - Foto",
+      "empfänger": "Manfred Egender",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Förderung Bildende Kunst - Foto",
+      "empfänger": "Dominik Buder",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Förderung Bildende Kunst - Foto",
+      "empfänger": "Domingo Geronimo Mattle",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Förderung Bildende Kunst - Foto",
+      "empfänger": "Antonia Felicitas Boss",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Förderung Bildende Kunst - Foto",
+      "empfänger": "Rafet Jonuzi",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Jahres- und Halbjahresstipendien an prof. Kunstschaffende",
+      "empfänger": "Larissa Omani Frei",
+      "ort": "Nüziders",
+      "postleitzahl": "6714",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Lorena-Ofelia Halder",
+      "ort": "Langenegg",
+      "postleitzahl": "6941",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Otto Herburger",
+      "ort": "Lustenau",
+      "postleitzahl": "6890",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Klaus Willi",
+      "ort": "Göfis",
+      "postleitzahl": "6811",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Karl Johann Ebster",
+      "ort": "Bürs",
+      "postleitzahl": "6706",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Emrullah Gür",
+      "ort": "Andelsbuch",
+      "postleitzahl": "6866",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.21e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Emanuel Kegele",
+      "ort": "Mellau",
+      "postleitzahl": "6881",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e4"
+    },
+    {
+      "art": "Förderung Bildende Kunst - Foto",
+      "empfänger": "Matthias Bildstein",
+      "ort": "Wien",
+      "postleitzahl": "1020",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e3"
+    },
+    {
+      "art": "Förderung Kulturinitiativen, Zentren",
+      "empfänger": "Bregenzer Festspiele GmbH",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4158e5"
+    },
+    {
+      "art": "Beiträge an die Naturwacht",
+      "empfänger": "Naturwacht Vorarlberg",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-10-01 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2025e5"
+    },
+    {
+      "art": "Förderung Museen",
+      "empfänger": "Vorarlberger Museumswelt",
+      "ort": "Frastanz",
+      "postleitzahl": "6820",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.115e5"
+    },
+    {
+      "art": "Förderung Museen",
+      "empfänger": "Vorarlberger Kulturhäuser- Betriebsgesellschaft mbH",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.273275e6"
+    },
+    {
+      "art": "Förderung Darstellende Kunst",
+      "empfänger": "Vorarlberger Kulturhäuser- Betriebsgesellschaft mbH",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.425225e6"
+    },
+    {
+      "art": "Förderung Kulturinitiativen, Zentren",
+      "empfänger": "Vorarlberger Kulturhäuser- Betriebsgesellschaft mbH",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.67008e5"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Reinhard Hans Thoma",
+      "ort": "Mäder",
+      "postleitzahl": "6841",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Wolfgang Guido Matt",
+      "ort": "Laterns",
+      "postleitzahl": "6830",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e4"
+    },
+    {
+      "art": "Strukturförderung f. Frauen und Gleichstellungsstellen",
+      "empfänger": "femail - Verein für Frauenberatung und zur Förderung der Geschlechtergerechtigkeit",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2011e5"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Darko Plesa",
+      "ort": "Hohenems",
+      "postleitzahl": "6845",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Thomas Hollenstein",
+      "ort": "Schwarzenberg",
+      "postleitzahl": "6867",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Josef Michael Fitz",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e4"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr Summer Gabriele ",
+      "ort": "Hohenems",
+      "postleitzahl": "6845",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e2"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr. Linder Verena",
+      "ort": "Frastanz",
+      "postleitzahl": "6820",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.18e3"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr. Jovanovic-Mifsud Tatjana",
+      "ort": "Schruns",
+      "postleitzahl": "6780",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.12e3"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr Madlener Margit",
+      "ort": "Hard",
+      "postleitzahl": "6971",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.12e3"
+    },
+    {
+      "art": "Förderung Bildende Kunst - Foto",
+      "empfänger": "Judith Batlogg",
+      "ort": "Lorüns",
+      "postleitzahl": "6700",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.33e4"
+    },
+    {
+      "art": "Förderung Museen",
+      "empfänger": "Juppenwerkstatt Riefensberg ",
+      "ort": "Riefensberg",
+      "postleitzahl": "6943",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.25e5"
+    },
+    {
+      "art": "Förderung des Musikschulwesens und der Musikausbildung in Vorarlberg",
+      "empfänger": "Musikschule am Hofsteig",
+      "ort": "Wolfurt",
+      "postleitzahl": "6922",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.4e3"
+    },
+    {
+      "art": "Förderung des Musikschulwesens und der Musikausbildung in Vorarlberg",
+      "empfänger": "Musikschule Bregenz",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.28e4"
+    },
+    {
+      "art": "Förderung des Musikschulwesens und der Musikausbildung in Vorarlberg",
+      "empfänger": "Musikschule Bregenzerwald",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.2e4"
+    },
+    {
+      "art": "Förderung des Musikschulwesens und der Musikausbildung in Vorarlberg",
+      "empfänger": "Musikschule Dornbirn",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.16e4"
+    },
+    {
+      "art": "Förderung des Musikschulwesens und der Musikausbildung in Vorarlberg",
+      "empfänger": "Amt/Musikschule der Stadt Feldkirch ",
+      "ort": "Feldkirch",
+      "postleitzahl": "6800",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.12e4"
+    },
+    {
+      "art": "Förderung des Musikschulwesens und der Musikausbildung in Vorarlberg",
+      "empfänger": "Musikschule Leiblachtal",
+      "ort": "Hörbranz",
+      "postleitzahl": "6912",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.12e4"
+    },
+    {
+      "art": "Förderung des Musikschulwesens und der Musikausbildung in Vorarlberg",
+      "empfänger": "Rheintalische Musikschule Lustenau",
+      "ort": "Lustenau",
+      "postleitzahl": "6890",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.8e3"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr. Burghard Philipp",
+      "ort": "Hohenems",
+      "postleitzahl": "6845",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e2"
+    },
+    {
+      "art": "Förderung Museen",
+      "empfänger": "inatura Erlebnis Naturschau GmbH",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-30 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e5"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr. Unterweger Eva",
+      "ort": "Frastanz",
+      "postleitzahl": "6820",
+      "auszahlungsdatum": "2026-09-29 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e3"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr Stuckenberg-Swoboda Sylvia ",
+      "ort": "Lochau",
+      "postleitzahl": "6911",
+      "auszahlungsdatum": "2026-09-29 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e2"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr Seidel Barbara",
+      "ort": "Bludenz",
+      "postleitzahl": "6700",
+      "auszahlungsdatum": "2026-09-29 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e2"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "MedEms",
+      "ort": "Hohenems",
+      "postleitzahl": "6845",
+      "auszahlungsdatum": "2026-09-29 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e2"
+    },
+    {
+      "art": "Förderung der Vorarlberger Fachverbände",
+      "empfänger": "Vlbg. Kletterverband",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-29 00:00:00 +0000",
+      "auszahlungsbetrag": "0.234e3"
+    },
+    {
+      "art": "Förderung der Vorarlberger Fachverbände",
+      "empfänger": "Vlbg. Kletterverband",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-29 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1617e4"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr. Chlumetzky-Gmeiner Claudia",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-29 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e2"
+    },
+    {
+      "art": null,
+      "empfänger": "Christian Helbock",
+      "ort": "Wien",
+      "postleitzahl": "1170",
+      "auszahlungsdatum": "2026-09-29 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e4"
+    },
+    {
+      "art": "Pflege-, Sanierungsmaßn. U. Entschäd. F. Nutzungseinschränkungen",
+      "empfänger": "Thurnherr Kurt",
+      "ort": "Au (Schweiz)",
+      "postleitzahl": "9434",
+      "auszahlungsdatum": "2026-09-29 00:00:00 +0000",
+      "auszahlungsbetrag": "0.654e3"
+    },
+    {
+      "art": "Pflege-, Sanierungsmaßn. U. Entschäd. F. Nutzungseinschränkungen",
+      "empfänger": "Maaß Susanne Helene",
+      "ort": "Dornbirn",
+      "postleitzahl": "6850",
+      "auszahlungsdatum": "2026-09-29 00:00:00 +0000",
+      "auszahlungsbetrag": "0.36e3"
+    },
+    {
+      "art": "Pflege-, Sanierungsmaßn. U. Entschäd. F. Nutzungseinschränkungen",
+      "empfänger": "Ortsgemeinde Schmitter ",
+      "ort": "Diepoldsau (Schweiz)",
+      "postleitzahl": "9444",
+      "auszahlungsdatum": "2026-09-29 00:00:00 +0000",
+      "auszahlungsbetrag": "0.34677e3"
+    },
+    {
+      "art": "Pflege-, Sanierungsmaßn. U. Entschäd. F. Nutzungseinschränkungen",
+      "empfänger": "Blum Alexander Alexander",
+      "ort": "Fußach",
+      "postleitzahl": "6972",
+      "auszahlungsdatum": "2026-09-29 00:00:00 +0000",
+      "auszahlungsbetrag": "0.766e3"
+    },
+    {
+      "art": "Förderwesen Frauen und Gleichstellung",
+      "empfänger": "Salon 13 - Weiblichkeit in Mann und Frau",
+      "ort": "Nenzing",
+      "postleitzahl": "6710",
+      "auszahlungsdatum": "2026-09-29 00:00:00 +0000",
+      "auszahlungsbetrag": "0.5e3"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Markus Weizenegger-Waller",
+      "ort": "Rankweil",
+      "postleitzahl": "6830",
+      "auszahlungsdatum": "2026-09-29 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Daniel Tschol",
+      "ort": "Bürs",
+      "postleitzahl": "6706",
+      "auszahlungsdatum": "2026-09-29 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Dieter Marte",
+      "ort": "Rankweil",
+      "postleitzahl": "6830",
+      "auszahlungsdatum": "2026-09-29 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Irmgard Kopf",
+      "ort": "Koblach",
+      "postleitzahl": "6842",
+      "auszahlungsdatum": "2026-09-29 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "Energieförderung",
+      "empfänger": "Martin Fiel",
+      "ort": "Lannach",
+      "postleitzahl": "8502",
+      "auszahlungsdatum": "2026-09-29 00:00:00 +0000",
+      "auszahlungsbetrag": "0.15e4"
+    },
+    {
+      "art": "kostenreduzierte Rechtsberatung für Frauen",
+      "empfänger": "Einsle Anita Maria Dr.",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-28 00:00:04 +0000",
+      "auszahlungsbetrag": "0.715e2"
+    },
+    {
+      "art": "kostenreduzierte Rechtsberatung für Frauen",
+      "empfänger": "Einsle Anita Maria Dr.",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-28 00:00:02 +0000",
+      "auszahlungsbetrag": "0.715e2"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr Valentiny Christine",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-28 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e2"
+    },
+    {
+      "art": "Sportabzeichen, Medaillen, Ehrenpreise u. Sportpublikationen",
+      "empfänger": "BMX-Club Bludenz",
+      "ort": "Bludenz",
+      "postleitzahl": "6700",
+      "auszahlungsdatum": "2026-09-28 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e3"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr. Pircher Peter",
+      "ort": "Frastanz",
+      "postleitzahl": "6820",
+      "auszahlungsdatum": "2026-09-28 00:00:00 +0000",
+      "auszahlungsbetrag": "0.36e3"
+    },
+    {
+      "art": "Förd.d.Mannschaftsspitzensport b.gesamtösterr. u.int.Bewerb.",
+      "empfänger": "SC Schwarz Weiss Bregenz",
+      "ort": "Bregenz",
+      "postleitzahl": "6900",
+      "auszahlungsdatum": "2026-09-28 00:00:00 +0000",
+      "auszahlungsbetrag": "0.3e5"
+    },
+    {
+      "art": "Förderung von Sportveranstaltungen",
+      "empfänger": "Taekwondo MUSTANG Feldkirch",
+      "ort": "Ludesch",
+      "postleitzahl": "6713",
+      "auszahlungsdatum": "2026-09-28 00:00:00 +0000",
+      "auszahlungsbetrag": "0.1e4"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr Seidel Barbara",
+      "ort": "Bludenz",
+      "postleitzahl": "6700",
+      "auszahlungsdatum": "2026-09-28 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e2"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr Valentiny Christine",
+      "ort": "Egg",
+      "postleitzahl": "6863",
+      "auszahlungsdatum": "2026-09-28 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e2"
+    },
+    {
+      "art": "Sportmedizinische Untersuchung",
+      "empfänger": "Dr. Burghard Philipp",
+      "ort": "Hohenems",
+      "postleitzahl": "6845",
+      "auszahlungsdatum": "2026-09-28 00:00:00 +0000",
+      "auszahlungsbetrag": "0.6e2"
+    },
     {
       "art": "Kompetenzzentrumprogramm Comet",
       "empfänger": "VIVIT Vorarlberg institute for vascular investigation and treatment, Institut für vaskulare Medizin",
